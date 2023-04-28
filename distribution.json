@@ -492,7 +492,7 @@
         },
         {
           "id": "alexndr.plugins:simpleores:1.11.2.2@jar",
-          "name": "SimpleOres 2",
+          "name": "SimpleOres",
           "type": "ForgeMod",
           "artifact": {
             "size": 157767,
