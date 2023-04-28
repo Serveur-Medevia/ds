@@ -267,7 +267,7 @@
         },
         {
           "id": "net.geforcemods:securitycraft:v1.9.3.1@jar",
-          "name": "Security Craft",
+          "name": "Module SecurityCraft",
           "type": "ForgeMod",
           "artifact": {
             "size": 3175038,
@@ -277,7 +277,7 @@
         },
         {
           "id": "com.ringosham.translate:translatemod:4.3.1@jar",
-          "name": "Module de traduction",
+          "name": "Real-time translation mod",
           "type": "ForgeMod",
           "artifact": {
             "size": 93047,
@@ -290,11 +290,11 @@
         },
         {
           "id": "com.creativemd:ambientsounds:3.0@jar",
-          "name": "Sons ambients",
+          "name": "AmbientSounds",
           "type": "ForgeMod",
           "artifact": {
             "size": 76507814,
-            "url": "https://mediafilez.forgecdn.net/files/3516/274/AmbientSounds_v3.1.7_mc1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/optionalon/AmbientSounds_v3.1.7_mc1.12.2.jar",
             "MD5": "9e10e9af279fa7e317fe678812f80ddc"
           },
           "required": {
@@ -303,20 +303,17 @@
         },
         {
           "id": "xaero.pvp:xaerobetterpvp:23.4.0@jar",
-          "name": "Module PVP",
+          "name": "Better PVP Mod",
           "type": "ForgeMod",
           "artifact": {
             "size": 1571590,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/optionalon/BetterPvP_23.4.0_Forge_1.12.jar",
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/required/BetterPvP_23.4.0_Forge_1.12.jar",
             "MD5": "1723d43facc90a56e3d48cb651f7e3a1"
-          },
-          "required": {
-            "value": false
           }
         },
         {
           "id": "biomesoplenty.core:biomesoplenty:7.0.1@jar",
-          "name": "Modules Biomes",
+          "name": "Biomes O' Plenty",
           "type": "ForgeMod",
           "artifact": {
             "size": 4702147,
@@ -326,7 +323,7 @@
         },
         {
           "id": "com.jaquadro.minecraft:chameleon:1.12-4.1.3@jar",
-          "name": "",
+          "name": "Chameleon",
           "type": "ForgeMod",
           "artifact": {
             "size": 96859,
@@ -336,7 +333,7 @@
         },
         {
           "id": "com.creativemd:creativecore:1.10@jar",
-          "name": "",
+          "name": "CreativeCore",
           "type": "ForgeMod",
           "artifact": {
             "size": 1320474,
@@ -346,7 +343,7 @@
         },
         {
           "id": "sparkless101.crosshairmod.main:customcrosshairmod:0.8.2@jar",
-          "name": "Module de Viseur personnalisé",
+          "name": "Crosshairmod",
           "type": "ForgeMod",
           "artifact": {
             "size": 102654,
@@ -359,7 +356,7 @@
         },
         {
           "id": "alexiil.mc.mod.load:customloadingscreen:1.12.2-1.5.7@jar",
-          "name": "Module d'Écran de chargement personalisé",
+          "name": "Custom Loading Screen",
           "type": "ForgeMod",
           "artifact": {
             "size": 977090,
@@ -369,7 +366,7 @@
         },
         {
           "id": "lumien.custommainmenu:custommainmenu:2.0.9.1@jar",
-          "name": "Module d'Écran d'accueil personalisé",
+          "name": "Custom Main Menu",
           "type": "ForgeMod",
           "artifact": {
             "size": 91121,
@@ -379,7 +376,7 @@
         },
         {
           "id": "xyz.vsngamer.elevator:elevatorid:1.12.2-1.3.5@jar",
-          "name": "Module d'Assenseur",
+          "name": "Elevator Mod",
           "type": "ForgeMod",
           "artifact": {
             "size": 96171,
@@ -388,8 +385,18 @@
           }
         },
         {
+          "id": "com.mrcrayfish.furniture:cfm:6.3.2@jar",
+          "name": "Module de Décoration",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2439199,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/required/furniture-6.3.2-1.12.2.jar",
+            "MD5": "c337d9b9b5465ba6ac78a2ca9f3dbf7c"
+          }
+        },
+        {
           "id": "micdoodle8.mods.galacticraft.core:galacticraftcore:4.0.2.280@jar",
-          "name": "Module Galactique",
+          "name": "Galacticraft Core",
           "type": "ForgeMod",
           "artifact": {
             "size": 10610662,
@@ -399,7 +406,7 @@
         },
         {
           "id": "micdoodle8.mods.galacticraft.planets:galacticraftplanets:4.0.2.280@jar",
-          "name": "Module Galactique²",
+          "name": "Galacticraft Planets",
           "type": "ForgeMod",
           "artifact": {
             "size": 3975978,
@@ -409,7 +416,7 @@
         },
         {
           "id": "invtweaks:inventorytweaks:1.63+release.109.220f184@jar",
-          "name": "Module d'Inventaire rangé",
+          "name": "Inventory Tweaks",
           "type": "ForgeMod",
           "artifact": {
             "size": 263258,
@@ -422,7 +429,7 @@
         },
         {
           "id": "cpw.mods:ironchest:1.12.2-7.0.69.845@jar",
-          "name": "Modules de Coffres",
+          "name": "Iron Chests",
           "type": "ForgeMod",
           "artifact": {
             "size": 956629,
@@ -432,7 +439,7 @@
         },
         {
           "id": "mezz.jei:jei:4.16.1.302@jar",
-          "name": "Module d'Inventaire amélioré",
+          "name": "Just Enough Items",
           "type": "ForgeMod",
           "artifact": {
             "size": 653210,
@@ -445,7 +452,7 @@
         },
         {
           "id": "micdoodle8.mods.miccore:micdoodlecore:1.12.2@jar",
-          "name": "",
+          "name": "MicdoodleCore",
           "type": "ForgeMod",
           "artifact": {
             "size": 53300,
@@ -455,7 +462,7 @@
         },
         {
           "id": "vazkii.neat:neat:1.4-17@jar",
-          "name": "Module de Barre de nom",
+          "name": "Neat",
           "type": "ForgeMod",
           "artifact": {
             "size": 18527,
@@ -465,7 +472,7 @@
         },
         {
           "id": "chylex.oldcombat:oldcombat:1.0.0@jar",
-          "name": "Module de Mécaniques de combat",
+          "name": "Old Combat",
           "type": "ForgeMod",
           "artifact": {
             "size": 4483,
@@ -475,7 +482,7 @@
         },
         {
           "id": "com.replaymod.core:replaymod:1.11.2-2.6.12@jar",
-          "name": "Module d'enregistrement de partie",
+          "name": "Replay Mod",
           "type": "ForgeMod",
           "artifact": {
             "size": 15318858,
@@ -489,7 +496,7 @@
         },
         {
           "id": "lumien.resourceloader:resourceloader:1.5.3@jar",
-          "name": "",
+          "name": "Resource Loader",
           "type": "ForgeMod",
           "artifact": {
             "size": 16612,
@@ -499,7 +506,7 @@
         },
         {
           "id": "alexndr.api.core:simplecore:1.7.3.4@jar",
-          "name": "",
+          "name": "SimpleCore API",
           "type": "ForgeMod",
           "artifact": {
             "size": 133644,
@@ -509,7 +516,7 @@
         },
         {
           "id": "alexndr.plugins:simpleores:1.11.2.2@jar",
-          "name": "Module de Minerais",
+          "name": "SimpleOres 2",
           "type": "ForgeMod",
           "artifact": {
             "size": 157767,
@@ -519,7 +526,7 @@
         },
         {
           "id": "com.jaquadro.minecraft:storagedrawers:1.12.1-5.3.3@jar",
-          "name": "Module de Stockage de drawers",
+          "name": "Storage Drawers",
           "type": "ForgeMod",
           "artifact": {
             "size": 590048,
@@ -529,7 +536,7 @@
         },
         {
           "id": "net.blay09.mods:trashslot:8.4.10@jar",
-          "name": "Module de Poubelle d'inventaire",
+          "name": "TrashSlot",
           "type": "ForgeMod",
           "artifact": {
             "size": 59192,
