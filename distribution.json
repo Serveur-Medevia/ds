@@ -11,7 +11,7 @@
       "id": "Medevia-1.12.2",
       "name": "Medevia",
       "description": "Medevia | Le voyage dans la galaxie",
-      "icon": "https://medevia.net/storage/img/newlogo.png",
+      "icon": null,
       "version": "1.0.0",
       "address": "185.41.152.56:55115",
       "minecraftVersion": "1.12.2",
@@ -288,18 +288,33 @@
             "value": false
           }
         },
-        {
-          "id": "com.creativemd:ambientsounds:3.0@jar",
-          "name": "AmbientSounds",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 76507814,
-            "url": "https://mediafilez.forgecdn.net/files/3516/274/AmbientSounds_v3.1.7_mc1.12.2.jar,
-            "MD5": "9e10e9af279fa7e317fe678812f80ddc"
-          },
-          "required": {
-            "value": false
-          }
+		{
+			"id": "com.creativemd:ambientsounds:3.0@jar",
+			"name": "AmbientSounds",
+			"type": "ForgeMod",
+			"required": {
+				"value": false
+			},
+			"artifact": {
+				"size": 76507814,
+				"MD5": "9e10e9af279fa7e317fe678812f80ddc",
+				"url": "https://mediafilez.forgecdn.net/files/3516/274/AmbientSounds_v3.1.7_mc1.12.2.jar"
+			},
+			"subModules": [
+				{
+					"id": "com.creativemd:creativecore:1.10@jar",
+					"name": "CreativeCore",
+					"type": "ForgeMod",
+					"required": {
+						"value": true
+					},
+					"artifact": {
+						"size": 1320474,
+						"MD5": "2c1f06ceb07b1bb20c79ad4991a48f7b",
+						"url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/optionalon/CreativeCore_v1.10.70_mc1.12.2.jar"
+					}
+				}
+			]
         },
         {
           "id": "xaero.pvp:xaerobetterpvp:23.4.0@jar",
@@ -342,19 +357,6 @@
             "size": 231809,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/required/CraftPresence-1.12.2-1.5.5.jar",
             "MD5": "140567d7df1de8b9a903140e799582c8"
-          }
-        },
-        {
-          "id": "com.creativemd:creativecore:1.10@jar",
-          "name": "CreativeCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1320474,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/optionalon/CreativeCore_v1.10.70_mc1.12.2.jar",
-            "MD5": "2c1f06ceb07b1bb20c79ad4991a48f7b"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -492,7 +494,7 @@
         },
         {
           "id": "alexndr.plugins:simpleores:1.11.2.2@jar",
-          "name": "SimpleOres",
+          "name": "SimpleOres 2",
           "type": "ForgeMod",
           "artifact": {
             "size": 157767,
