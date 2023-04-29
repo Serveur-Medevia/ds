@@ -538,6 +538,16 @@
             "MD5": "b014c93c84f8277fa1d4b762a2fbcd54"
           }
         },
+		{
+          "id": "com.mrcrayfish.furniture:cfm:6.3.2@jar",
+          "name": "Module de Décoration",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2439199,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/required/furniture-6.3.2-1.12.2.jar",
+            "MD5": "c337d9b9b5465ba6ac78a2ca9f3dbf7c"
+          }
+        },
         {
           "id": "net.blay09.mods:trashslot:8.4.10@jar",
           "name": "Module de Poubelle d'inventaire",
