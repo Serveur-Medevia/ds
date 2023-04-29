@@ -534,6 +534,16 @@
             "MD5": "38ee6ffc44a7fee5fe85f4bfb9976d83"
           }
         },
+		{
+          "id": "deliruscrux.boparmoraddon:atop:1.6@jar",
+          "name": "Module d'Outils",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 148515,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/required/ATOP-1.12.2-v.1.6.jar",
+            "MD5": "fb2dbbe092c97c875c96df3a7e6cbee9"
+          }
+        },
         {
           "id": "mainmenu.json",
           "name": "mainmenu.json",
