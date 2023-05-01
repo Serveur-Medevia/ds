@@ -8,20 +8,20 @@
   },
   "servers": [
     {
-      "id": "Medevia-1.12.2",
-      "name": "Medevia",
-      "description": "Medevia | Le voyage dans la galaxie",
-      "icon": null,
+      "id": "Medevia-Beta",
+      "name": "Médévia Beta",
+      "description": "Beta version of medevia",
+      "icon": "https://medevia.net/storage/img/newlogo.png",
       "version": "1.0.0",
       "address": "185.41.152.56:55115",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "Médévia",
+        "shortId": "Médévia Beta",
         "largeImageText": "play.medevia.net",
         "largeImageKey": "medevialogo"
       },
-      "mainServer": true,
-      "autoconnect": false,
+      "mainServer": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2859:universal",
@@ -283,19 +283,6 @@
             "size": 93047,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/optionalon/[1.12.2]RealTimeTranslation-4.3.1.jar",
             "MD5": "c29653dfe2232afd7cb5e318224b9c55"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.creativemd:ambientsounds:3.0@jar",
-          "name": "AmbientSounds",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 76507814,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.12.2/forgemods/optionalon/AmbientSounds_v3.1.7_mc1.12.2.jar",
-            "MD5": "9e10e9af279fa7e317fe678812f80ddc"
           },
           "required": {
             "value": false
