@@ -13,7 +13,7 @@
       "description": "Medevia | Le voyage dans la galaxie",
       "icon": "https://medevia.net/storage/img/newlogo.png",
       "version": "1.0.0",
-      "address": "185.41.152.56:55115",
+      "address": "play.medevia.net",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "Médévia",
