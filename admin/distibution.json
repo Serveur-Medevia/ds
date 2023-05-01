@@ -266,6 +266,19 @@
           ]
         },
         {
+          "id": "net.geforcemods:securitycraft:v1.9.3.1@jar",
+          "name": "SecurityCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3175038,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.12.2/forgemods/optionalon/[1.12.2]+SecurityCraft+v1.9.3.1.jar",
+            "MD5": "b89508a669235dcc5b42982af19aacc0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "aqua_creepers:aqua_creepers:1.2.3@jar",
           "name": "Aqua_creepers",
           "type": "ForgeMod",
@@ -666,8 +679,8 @@
         "largeImageText": "play.medevia.net",
         "largeImageKey": "medevialogo"
       },
-      "mainServer": true,
-      "autoconnect": false,
+      "mainServer": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2859:universal",
