@@ -266,19 +266,6 @@
           ]
         },
         {
-          "id": "net.geforcemods:securitycraft:v1.9.3.1@jar",
-          "name": "SecurityCraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3175038,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.12.2/forgemods/optionalon/[1.12.2]+SecurityCraft+v1.9.3.1.jar",
-            "MD5": "b89508a669235dcc5b42982af19aacc0"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "aqua_creepers:aqua_creepers:1.2.3@jar",
           "name": "Aqua_creepers",
           "type": "ForgeMod",
@@ -416,19 +403,6 @@
             "size": 168418,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.12.2/forgemods/optionalon/FallingTree-1.12.2-2.4.0.jar",
             "MD5": "55c655ebb5f474fea7ab11609fdf584d"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.forgeessentials.client:ForgeEssentialsClient:12.3.123@jar",
-          "name": "Forge Essentials Client Addon",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 974993,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.12.2/forgemods/optionalon/forgeessentials-1.12.2-12.3.123-client.jar",
-            "MD5": "9db72ca248a7ed0a8acc7f87edf5bba2"
           },
           "required": {
             "value": false
@@ -624,6 +598,19 @@
             "size": 59192,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.12.2/forgemods/optionalon/TrashSlot_1.12.2-8.4.10.jar",
             "MD5": "38ee6ffc44a7fee5fe85f4bfb9976d83"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "info.u_team.u_team_core:uteamcore:2.2.5.226@jar",
+          "name": "U Team Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 334590,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.12.2/forgemods/optionalon/u_team_core-1.12.2-2.2.5.226.jar",
+            "MD5": "370e5315351e3fcaa4053ff839acb87a"
           },
           "required": {
             "value": false
