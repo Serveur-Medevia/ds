@@ -8,13 +8,13 @@
   },
   "servers": [
     {
-      "id": "Medevia_Alpha-1.18.2",
+      "id": "Medevia_Alpha-1.16.5",
       "name": "Medevia Alpha",
       "description": "Alpha version of medevia",
       "icon": "https://cdn.discordapp.com/attachments/977836321789866014/1102595989078032455/sdgv-removebg-preview_1.png",
       "version": "1.0.0",
       "address": "185.41.152.56:55108",
-      "minecraftVersion": "1.18.2",
+      "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "Médévia Alpha",
         "largeImageText": "play.medevia.net",
@@ -24,190 +24,164 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.18.2-40.2.0",
-          "name": "Minecraft Forge (lowcodelanguage)",
+          "id": "net.minecraftforge:forge:1.16.5-36.2.39",
+          "name": "Minecraft Forge (base jar)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 7380,
-            "MD5": "29a4359b944863dc70426a7466c4db2a",
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/lowcodelanguage/1.18.2-40.2.0/lowcodelanguage-1.18.2-40.2.0.jar"
+            "size": 212574,
+            "MD5": "4afee0135f47547182faa2ea88efebac",
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39.jar"
           },
           "subModules": [
             {
-              "id": "1.18.2-40.2.0",
+              "id": "1.16.5-36.2.39",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 14241,
-                "MD5": "edd6295e3af9034c97c65d21ccd16f94",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/versions/1.18.2-forge-40.2.0/1.18.2-forge-40.2.0.json"
+                "size": 13577,
+                "MD5": "2090bfafdec72f885ddf95300bd96714",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/versions/1.16.5-forge-36.2.39/1.16.5-forge-36.2.39.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.18.2-40.2.0",
-              "name": "Minecraft Forge (fmlcore)",
-              "type": "Library",
-              "classpath": true,
-              "artifact": {
-                "size": 109981,
-                "MD5": "a8a078095bb99f6358db4d6bed8eaf85",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/fmlcore/1.18.2-40.2.0/fmlcore-1.18.2-40.2.0.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraftforge:javafmllanguage:1.18.2-40.2.0",
-              "name": "Minecraft Forge (javafmllanguage)",
-              "type": "Library",
-              "classpath": true,
-              "artifact": {
-                "size": 16290,
-                "MD5": "281dd7df35136397ee7a1d90c2d7b7b3",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/javafmllanguage/1.18.2-40.2.0/javafmllanguage-1.18.2-40.2.0.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraftforge:mclanguage:1.18.2-40.2.0",
-              "name": "Minecraft Forge (mclanguage)",
-              "type": "Library",
-              "classpath": true,
-              "artifact": {
-                "size": 4984,
-                "MD5": "f7af9eb3036d58dad5d5b97571888a8f",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/mclanguage/1.18.2-40.2.0/mclanguage-1.18.2-40.2.0.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraftforge:forge:1.18.2-40.2.0:universal",
+              "id": "net.minecraftforge:forge:1.16.5-36.2.39:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
-              "classpath": false,
+              "classpath": true,
               "artifact": {
-                "size": 2541328,
-                "MD5": "971654b4c51234aaf75dc836832cfc57",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/forge/1.18.2-40.2.0/forge-1.18.2-40.2.0-universal.jar"
+                "size": 2504067,
+                "MD5": "3337e44edf13c5759548623b5866b967",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.18.2-40.2.0:client",
+              "id": "net.minecraftforge:forge:1.16.5-36.2.39:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
-              "classpath": false,
+              "classpath": true,
               "artifact": {
-                "size": 5122084,
-                "MD5": "5a73e23f251a75810ce626e04bfa8f3c",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/forge/1.18.2-40.2.0/forge-1.18.2-40.2.0-client.jar"
+                "size": 4216473,
+                "MD5": "253bbbe4aa8a7752615ea759fa178c80",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-client.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraft:client:1.18.2-20220404.173914:srg",
+              "id": "net.minecraft:client:1.16.5-20210115.111550:srg",
               "name": "Minecraft Forge (client srg)",
               "type": "Library",
-              "classpath": false,
+              "classpath": true,
               "artifact": {
-                "size": 16166247,
-                "MD5": "a0ce7261b4f77fd1319b05b95591bc68",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar"
+                "size": 11352644,
+                "MD5": "edfee91d270fcfd4b547693bd748a5d2",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraft:client:1.18.2-20220404.173914:slim",
+              "id": "net.minecraft:client:1.16.5-20210115.111550:slim",
               "name": "Minecraft Forge (client slim)",
               "type": "Library",
-              "classpath": false,
+              "classpath": true,
               "artifact": {
-                "size": 10909711,
-                "MD5": "62184203a1e66c6c72b415b7d6e64c0d",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-slim.jar"
+                "size": 9118806,
+                "MD5": "df78297c0b6526e16f2bb7a685fd6b96",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraft:client:1.18.2-20220404.173914:extra",
+              "id": "net.minecraft:client:1.16.5-20210115.111550:extra",
               "name": "Minecraft Forge (client extra)",
               "type": "Library",
-              "classpath": false,
+              "classpath": true,
               "artifact": {
-                "size": 9349972,
-                "MD5": "5de62b239289ed8e596b386766b87b41",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-extra.jar"
+                "size": 8428369,
+                "MD5": "dbed747390f81e10cee40500b726431a",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
               },
               "subModules": []
             },
             {
-              "id": "cpw.mods:securejarhandler:1.0.3",
-              "name": "Minecraft Forge (securejarhandler)",
-              "type": "Library",
-              "artifact": {
-                "size": 103266,
-                "MD5": "678ec8927eb25f596db7e620a716befc",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/cpw/mods/securejarhandler/1.0.3/securejarhandler-1.0.3.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm:9.2",
+              "id": "org.ow2.asm:asm:9.1",
               "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
-                "size": 122004,
-                "MD5": "8f184dce9b1bedc675d4a3640d43ddf0",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/ow2/asm/asm/9.2/asm-9.2.jar"
+                "size": 121790,
+                "MD5": "54b9f5d15e4877a4ea4cf9ec48e07afa",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.2",
+              "id": "org.ow2.asm:asm-commons:9.1",
               "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 72642,
-                "MD5": "3eb09775e1076eb0a085a4592faebc2a",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar"
+                "size": 72641,
+                "MD5": "81cc6b8f5ce8f2767d39fbd4b6c37a6a",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.2",
+              "id": "org.ow2.asm:asm-tree:9.1",
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 52660,
-                "MD5": "9c45524e94b19cc8b614b9e81ad544e2",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar"
+                "size": 52662,
+                "MD5": "c2536add9ebcfa8066fcfb0dbe865879",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.2",
+              "id": "org.ow2.asm:asm-util:9.1",
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 84854,
-                "MD5": "8562ac2619220b948cef931285b1e13b",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar"
+                "size": 84679,
+                "MD5": "2f1a28f6b0f3e02b17d38a0f657a1527",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.2",
+              "id": "org.ow2.asm:asm-analysis:9.1",
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
                 "size": 34257,
-                "MD5": "e62aa59de96ae29c690c3521ea4b6359",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar"
+                "MD5": "f0e82941173b6049c03e8214ace70ecd",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
               }
             },
             {
-              "id": "net.minecraftforge:accesstransformers:8.0.4",
+              "id": "cpw.mods:modlauncher:8.1.3",
+              "name": "Minecraft Forge (modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 126747,
+                "MD5": "b6ba74224a6a68e6fb3e9cf3d72b9344",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:grossjava9hacks:1.3.3",
+              "name": "Minecraft Forge (grossjava9hacks)",
+              "type": "Library",
+              "artifact": {
+                "size": 2113,
+                "MD5": "d19b487241008d8e6111137a289ea1d7",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:accesstransformers:3.0.1",
               "name": "Minecraft Forge (accesstransformers)",
               "type": "Library",
               "artifact": {
-                "size": 77756,
-                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "size": 76586,
+                "MD5": "ada4c365c3d0de73c05a94010432b547",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
               }
             },
             {
@@ -221,43 +195,33 @@
               }
             },
             {
-              "id": "net.minecraftforge:eventbus:5.0.3",
+              "id": "net.minecraftforge:eventbus:4.0.0",
               "name": "Minecraft Forge (eventbus)",
               "type": "Library",
               "artifact": {
-                "size": 42838,
-                "MD5": "c8b735cdfe9975a569626d72ad40377f",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/eventbus/5.0.3/eventbus-5.0.3.jar"
+                "size": 42873,
+                "MD5": "84c4758e6139b70146104be5bb1300b5",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
               }
             },
             {
-              "id": "net.minecraftforge:forgespi:4.0.15-4.x",
+              "id": "net.minecraftforge:forgespi:3.2.0",
               "name": "Minecraft Forge (forgespi)",
               "type": "Library",
               "artifact": {
-                "size": 22072,
-                "MD5": "8509a972b27c9f037d55c61e16fc051f",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/forgespi/4.0.15-4.x/forgespi-4.0.15-4.x.jar"
+                "size": 20172,
+                "MD5": "8f1f6942d17d88d704324e8000666a1a",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
               }
             },
             {
-              "id": "net.minecraftforge:coremods:5.0.1",
+              "id": "net.minecraftforge:coremods:4.0.6",
               "name": "Minecraft Forge (coremods)",
               "type": "Library",
               "artifact": {
-                "size": 24199,
-                "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
-              }
-            },
-            {
-              "id": "cpw.mods:modlauncher:9.1.3",
-              "name": "Minecraft Forge (modlauncher)",
-              "type": "Library",
-              "artifact": {
-                "size": 129301,
-                "MD5": "dca70519c3e53ac018d6f50c6f90cd38",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/cpw/mods/modlauncher/9.1.3/modlauncher-9.1.3.jar"
+                "size": 25453,
+                "MD5": "e56551f2586d3ff08beb24f5ea44a7d3",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
               }
             },
             {
@@ -271,23 +235,33 @@
               }
             },
             {
-              "id": "com.electronwill.night-config:core:3.6.4",
+              "id": "com.electronwill.night-config:core:3.6.3",
               "name": "Minecraft Forge (core)",
               "type": "Library",
               "artifact": {
-                "size": 199834,
-                "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "size": 199091,
+                "MD5": "093b0ca357d3f8b922170b8d7f43948c",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
               }
             },
             {
-              "id": "com.electronwill.night-config:toml:3.6.4",
+              "id": "com.electronwill.night-config:toml:3.6.3",
               "name": "Minecraft Forge (toml)",
               "type": "Library",
               "artifact": {
-                "size": 31816,
-                "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "size": 31288,
+                "MD5": "615b8e62371c536f876764591990118d",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline:3.12.1",
+              "name": "Minecraft Forge (jline)",
+              "type": "Library",
+              "artifact": {
+                "size": 732926,
+                "MD5": "ffd8c9d6eb8a8456ef505c8ef9fc777d",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
               }
             },
             {
@@ -311,6 +285,36 @@
               }
             },
             {
+              "id": "org.apache.logging.log4j:log4j-api:2.15.0",
+              "name": "Minecraft Forge (log4j-api)",
+              "type": "Library",
+              "artifact": {
+                "size": 301804,
+                "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-core:2.15.0",
+              "name": "Minecraft Forge (log4j-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 1789769,
+                "MD5": "81e0433ae00602c0e4d00424d213b0ab",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-slf4j18-impl:2.15.0",
+              "name": "Minecraft Forge (log4j-slf4j18-impl)",
+              "type": "Library",
+              "artifact": {
+                "size": 21223,
+                "MD5": "196442f1bdde4dbb0f576eed616e21b0",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+              }
+            },
+            {
               "id": "net.minecrell:terminalconsoleappender:1.2.0",
               "name": "Minecraft Forge (terminalconsoleappender)",
               "type": "Library",
@@ -321,410 +325,344 @@
               }
             },
             {
-              "id": "org.jline:jline-reader:3.12.1",
-              "name": "Minecraft Forge (jline-reader)",
+              "id": "net.sf.jopt-simple:jopt-simple:5.0.4",
+              "name": "Minecraft Forge (jopt-simple)",
               "type": "Library",
               "artifact": {
-                "size": 150765,
-                "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "size": 78146,
+                "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
               }
             },
             {
-              "id": "org.jline:jline-terminal:3.12.1",
-              "name": "Minecraft Forge (jline-terminal)",
-              "type": "Library",
-              "artifact": {
-                "size": 211712,
-                "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
-              }
-            },
-            {
-              "id": "org.spongepowered:mixin:0.8.5",
+              "id": "org.spongepowered:mixin:0.8.4",
               "name": "Minecraft Forge (mixin)",
               "type": "Library",
               "artifact": {
-                "size": 1089277,
-                "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "size": 1069391,
+                "MD5": "25fbb8ff965e88cc2252c99be0cf5cbb",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
               }
             },
             {
-              "id": "org.openjdk.nashorn:nashorn-core:15.3",
-              "name": "Minecraft Forge (nashorn-core)",
+              "id": "net.minecraftforge:nashorn-core-compat:15.1.1.1",
+              "name": "Minecraft Forge (nashorn-core-compat)",
               "type": "Library",
               "artifact": {
-                "size": 2167288,
-                "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:JarJar:0.3.0",
-              "name": "Minecraft Forge (JarJar)",
-              "type": "Library",
-              "artifact": {
-                "size": 60569,
-                "MD5": "7733c150d5aa87caf75c34618d116619",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/JarJar/0.3.0/JarJar-0.3.0.jar"
-              }
-            },
-            {
-              "id": "cpw.mods:bootstraplauncher:1.0.0",
-              "name": "Minecraft Forge (bootstraplauncher)",
-              "type": "Library",
-              "artifact": {
-                "size": 7828,
-                "MD5": "1632575563bb6ead2ae3a087945f18be",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:fmlloader:1.18.2-40.2.0",
-              "name": "Minecraft Forge (fmlloader)",
-              "type": "Library",
-              "artifact": {
-                "size": 256614,
-                "MD5": "6aef0cbe8519d14c4b028a41807e6bb2",
-                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/fmlloader/1.18.2-40.2.0/fmlloader-1.18.2-40.2.0.jar"
+                "size": 2194057,
+                "MD5": "ae37ed8407982eefc9f85fdb1c95a3a0",
+                "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
               }
             }
           ]
         },
         {
-          "id": "com.github.alexthe666:alexsmobs:1.18.6@jar",
+          "id": "net.geforcemods:securitycraft:v1.8.21.1@jar",
+          "name": "SecurityCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2441584,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/[1.16.5]+SecurityCraft+v1.8.21.1.jar",
+            "MD5": "dcc9cb141e9a8d15c03fb6d96393f4db"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.bdew.generators:advgenerators:0.10.1.11@jar",
+          "name": "Advanced Generators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 858345,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/advgenerators-0.10.1.11-mc1.16.5.jar",
+            "MD5": "7cb6b7a4b35fe82d44029cf7ddb52fd2"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.github.alexthe666:alexsmobs:1.12.1@jar",
           "name": "Alex's Mobs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 22436427,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/alexsmobs-1.18.6.jar",
-            "MD5": "055b233750ba11d528e4c23a1ad6d179"
+            "size": 18135643,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/alexsmobs-1.12.1.jar",
+            "MD5": "5f3cbbbdea79b8faa0ad0f5445587690"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "shadows.apotheosis:apotheosis:5.7.7@jar",
+          "id": "shadows.apotheosis:apotheosis:4.8.4@jar",
           "name": "Apotheosis",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1539553,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/Apotheosis-1.18.2-5.7.7.jar",
-            "MD5": "d410791304f0a658dd5609f2fa0f15f9"
+            "size": 959675,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/Apotheosis-1.16.5-4.8.4.jar",
+            "MD5": "de20f985cad2830a533cdd69606fc8d6"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "appeng.core:ae2:11.7.3@jar",
+          "id": "appeng.core:appliedenergistics2:8.4.7@jar",
           "name": "Applied Energistics 2",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5135470,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/appliedenergistics2-forge-11.7.3.jar",
-            "MD5": "9ce9ac56d6f516fc15d99d89cac1040e"
+            "size": 4820914,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/appliedenergistics2-8.4.7.jar",
+            "MD5": "c89ee2036b32eaaf3aafc77ec7694524"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "aqua_creepers:aqua_creepers:2.0.0@jar",
-          "name": "AquaCreepers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 262540,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/AquaCreepers-2.0.0.jar",
-            "MD5": "d0ed56d551101225469d63cb04280f85"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.teammetallurgy:aquaculture:1.18.2-2.3.10@jar",
+          "id": "com.teammetallurgy:aquaculture:1.16.5-2.1.21@jar",
           "name": "Aquaculture 2",
           "type": "ForgeMod",
           "artifact": {
-            "size": 574896,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/Aquaculture-1.18.2-2.3.10.jar",
-            "MD5": "d5c61a01eaea778c635158fc285a1226"
+            "size": 551025,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/Aquaculture-1.16.5-2.1.21.jar",
+            "MD5": "405ea7a18e5facd1b68e974166929fcc"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "dev.architectury:architectury:4.11.93@jar",
+          "id": "me.shedaniel:architectury:1.32.66@jar",
           "name": "Architectury",
           "type": "ForgeMod",
           "artifact": {
-            "size": 549226,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/architectury-4.11.93-forge.jar",
-            "MD5": "f3e897bea30252c717004e1a3439cf6b"
+            "size": 551890,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/architectury-1.32.66.jar",
+            "MD5": "5035bb619d94ef535c0094702ebe4f31"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "vazkii.arl:autoreglib:1.7-53@jar",
+          "id": "vazkii.arl:autoreglib:1.6-49@jar",
           "name": "AutoRegLib",
           "type": "ForgeMod",
           "artifact": {
-            "size": 42733,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/AutoRegLib-1.7-53.jar",
-            "MD5": "b3fa32322a19c3d5f480efbff506dade"
+            "size": 57279,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/AutoRegLib-1.6-49.jar",
+            "MD5": "16302251afc7a757f00899b270cc0fa2"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "net.blay09.mods:balm:3.2.6@jar",
-          "name": "Balm",
+          "id": "generated.forgemod:basicendores:1.16.5-1.0.0-Fabric@jar",
+          "name": "BasicEndOres",
           "type": "ForgeMod",
           "artifact": {
-            "size": 622515,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/balm-3.2.6.jar",
-            "MD5": "2c88b15b950317917fe64980267d579a"
+            "size": 270520,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/BasicEndOres-1.16.5-1.0.0-Fabric.jar",
+            "MD5": "c840ebcbc33f6be149f61e7c00040be0"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "dev.itsmeow:betteranimalsplus:1.18.2-11.0.10@jar",
+          "id": "its_meow.betteranimalsplus:betteranimalsplus:10.2.0@jar",
           "name": "Better Animals Plus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2164141,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/betteranimalsplus-1.18.2-11.0.10-forge.jar",
-            "MD5": "1ac2983f2e1cdc4552bbcffb29506ecc"
+            "size": 8356809,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/betteranimalsplus-1.16.5-10.2.0.jar",
+            "MD5": "76be6215fd3ddd3fca3316718afa8962"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "xaero.pvp:xaerobetterpvp:23.4.1@jar",
-          "name": "Better PVP Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1362893,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/BetterPvP_23.4.1_Forge_1.18.2.jar",
-            "MD5": "d552fd9e3248be9a1fb6a819c53c58d3"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.mrscauthd:beyond_earth:6.2@jar",
-          "name": "Beyond Earth",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4075963,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/Beyond-Earth-1.18.2-6.2.jar",
-            "MD5": "0437372c86ffe6bc99e4ee6787ece341"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "biomesoplenty.core:biomesoplenty:1.18.2-16.0.0.118@jar",
+          "id": "biomesoplenty.core:biomesoplenty:1.16.5-13.1.0.488@jar",
           "name": "Biomes O' Plenty",
           "type": "ForgeMod",
           "artifact": {
-            "size": 21245046,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/BiomesOPlenty-1.18.2-16.0.0.118.jar",
-            "MD5": "4408d467b94c7759cf11b1b10d57ab71"
+            "size": 3651046,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/BiomesOPlenty-1.16.5-13.1.0.488-universal.jar",
+            "MD5": "de3c185d84131c22377464515cd015e4"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "vazkii.botania:botania:1.18.2-435@jar",
+          "id": "vazkii.botania:botania:1.16.5-420.2@jar",
           "name": "Botania",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11422451,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/Botania-1.18.2-435.jar",
-            "MD5": "34ca65e3dbe64e7d344a887f860be112"
+            "size": 15045251,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/Botania-1.16.5-420.2.jar",
+            "MD5": "04ee52602f0c1d1ac8e53c03fe8a2186"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre29@jar",
+          "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre22@jar",
           "name": "MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2171166,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/cfm-7.0.0-pre29-1.18.2.jar",
-            "MD5": "44955fa7fbe27850e97a0430c5feb629"
+            "size": 2033912,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/cfm-7.0.0pre22-1.16.3.jar",
+            "MD5": "b2a5f7a361279de6bb5f51246ad36484"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "com.github.alexthe666:citadel:1.11.3@jar",
+          "id": "com.mrcrayfish.guns:cgm:1.0.1@jar",
+          "name": "MrCrayfish's Gun Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1206292,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/cgm-1.0.1-1.16.3.jar",
+            "MD5": "fd94e8be762613993c09224576e270c0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.github.alexthe666:citadel:1.8.1@jar",
           "name": "Citadel",
           "type": "ForgeMod",
           "artifact": {
-            "size": 503137,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/citadel-1.11.3-1.18.2.jar",
-            "MD5": "fffef0755c3ac225d55b91357f2d9823"
+            "size": 482439,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/citadel-1.8.1-1.16.5.jar",
+            "MD5": "9ee0682eec5d343c6238e30c21c98e69"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "com.simibubi:create:0.5.0.i@jar",
+          "id": "com.simibubi:create:v0.3.2g@jar",
           "name": "Create",
           "type": "ForgeMod",
           "artifact": {
-            "size": 13322194,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/create-1.18.2-0.5.0.i.jar",
-            "MD5": "a76ff4f84748552fe28ae57aa569b9f0"
+            "size": 11564279,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/create-mc1.16.5_v0.3.2g.jar",
+            "MD5": "84ec13d5bccfa71a09783ecb6e089b20"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "team.creative:creativecore:0.0.0@jar",
+          "id": "team.creative:creativecore:2.3.0@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
           "artifact": {
-            "size": 857712,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/CreativeCore_FORGE_v2.6.16_mc1.18.2.jar",
-            "MD5": "cd1a5aafe874210651dfd2be713f2cec"
+            "size": 824660,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/CreativeCore_v2.3.0_mc1.17.1.jar",
+            "MD5": "d6936f32c02e6c2836aa6f1f5f6588d1"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "top.theillusivec4:curios:1.18.2-5.0.8.0@jar",
+          "id": "top.theillusivec4:curios:1.16.5-4.1.0.0@jar",
           "name": "Curios API",
           "type": "ForgeMod",
           "artifact": {
-            "size": 275956,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/curios-forge-1.18.2-5.0.8.0.jar",
-            "MD5": "73e2b374b1940663c0a0df1727af8ad4"
+            "size": 291897,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/curios-forge-1.16.5-4.1.0.0.jar",
+            "MD5": "4f71bcd532f9a3c8b051ef30787bd404"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "com.infamous:dungeons_libraries:1.18.2-2.0.5-beta@jar",
+          "id": "com.infamous:dungeons_libraries:1.16.5-1.0.6@jar",
           "name": "Dungeons Libraries",
           "type": "ForgeMod",
           "artifact": {
-            "size": 608545,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/dungeons_libraries-1.18.2-2.0.5-beta.jar",
-            "MD5": "dc7349f650aa8bf8756dc378851c3281"
+            "size": 647661,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/dungeons_libraries-1.16.5-1.0.6.jar",
+            "MD5": "5913814ac542e5a35916ed2653ab6ce3"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "com.infamous:dungeons_mobs:1.18.2-3.0.2-beta@jar",
+          "id": "com.infamous:dungeons_mobs:1.16.5-2.2.3@jar",
           "name": "Dungeons Mobs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 12383332,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/dungeons_mobs-1.18.2-3.0.2-beta.jar",
-            "MD5": "8bda4bead68ed6b448470c3b875abb5f"
+            "size": 12420294,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/dungeons_mobs-1.16.5-2.2.3.jar",
+            "MD5": "06d40a81a22275863f204f8479dde409"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "xyz.vsngamer:elevatorid:1.18.2-1.8.4@jar",
+          "id": "xyz.vsngamer:elevatorid:1.16.5-1.7.13@jar",
           "name": "Elevator Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 185669,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/elevatorid-1.18.2-1.8.4.jar",
-            "MD5": "413e9a78b2c93aafa143f97b32b3ea92"
+            "size": 183750,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/elevatorid-1.16.5-1.7.13.jar",
+            "MD5": "0eb349656093c5c3cd260ec5aa425193"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "yesman.epicfight.main:epicfight:18.3.7@jar",
-          "name": "Epic Fight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4154736,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/EpicFight-18.3.7.jar",
-            "MD5": "7a2bc68011b46593509a5875b5856011"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.jozufozu:flywheel:0.6.8.a@jar",
+          "id": "com.jozufozu:flywheel:1.16-0.2.5@jar",
           "name": "Flywheel",
           "type": "ForgeMod",
           "artifact": {
-            "size": 543654,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/flywheel-forge-1.18.2-0.6.8.a.jar",
-            "MD5": "cf0270b5afb319aac5b6e0b42c9f7af6"
+            "size": 420923,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/flywheel-1.16-0.2.5.jar",
+            "MD5": "0964200fddbd4ff67dfab63c5aae161a"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "software.bernie.example:geckolib3:3.0.57@jar",
+          "id": "software.bernie.example:geckolib3:3.0.106@jar",
           "name": "GeckoLib",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2927832,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/geckolib-forge-1.18-3.0.57.jar",
-            "MD5": "d491c30c6d9bd3f767bd545cbaf6502e"
+            "size": 3559283,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/geckolib-forge-1.16.5-3.0.106.jar",
+            "MD5": "6f4524eea52474c58280c2b0ac06e1e0"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "generated.forgemod:go:fish-1.5.0-1.18.2@jar",
-          "name": "Go",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 317967,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/go-fish-1.5.0-1.18.2.jar",
-            "MD5": "a25002a23b4d6ce605bf7dc41d2f485b"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.progwml6:ironchest:1.18.2-13.2.11@jar",
+          "id": "com.progwml6:ironchest:1.16.5-11.2.21@jar",
           "name": "Iron Chests",
           "type": "ForgeMod",
           "artifact": {
-            "size": 292497,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/ironchest-1.18.2-13.2.11.jar",
-            "MD5": "48227046c0a4ac778b6028807ec3e19e"
+            "size": 258298,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/ironchest-1.16.5-11.2.21.jar",
+            "MD5": "ad813ff46d3c9ba127e1033bfe957758"
           },
           "required": {
             "value": false
@@ -735,256 +673,321 @@
           "name": "ItemPhysic",
           "type": "ForgeMod",
           "artifact": {
-            "size": 43791,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/ItemPhysic_v1.4.23_mc1.18.2.jar",
-            "MD5": "8ab319f32a0ff0a0669fc63e10d63e77"
+            "size": 47260,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/ItemPhysic_v1.4.18_mc1.16.5.jar",
+            "MD5": "537659a8c02fca60c79036d4c14dface"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "mezz.jei:jei:10.2.1.1004@jar",
+          "id": "mezz.jei:jei:7.7.1.152@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1085199,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/jei-1.18.2-forge-10.2.1.1004.jar",
-            "MD5": "69717b3275878d9d8b8dabfc43c6056c"
+            "size": 828677,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/jei-1.16.5-7.7.1.152.jar",
+            "MD5": "fb5fe43b43be01abc6c24eff29791b52"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "io.github.noeppi_noeppi:libx:1.18.2-3.2.18@jar",
+          "id": "io.github.noeppi_noeppi:libx:1.16.3-1.0.76@jar",
           "name": "LibX",
           "type": "ForgeMod",
           "artifact": {
-            "size": 877633,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/LibX-1.18.2-3.2.18.jar",
-            "MD5": "4a8aedf9cad2bfb561bbe855a92846f6"
+            "size": 373391,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/LibX-1.16.3-1.0.76.jar",
+            "MD5": "76862af5ee0b6d18df35b782835cd5a9"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "magma_monsters:magma_monsters:0.6.2@jar",
+          "id": "mod.lucky:lucky:1.16.5-1@jar",
+          "name": "Lucky Block",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 215962,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/lucky-block-forge-1.16.5-5.0.jar",
+            "MD5": "30f281ad2e6056aa45507ac552f717ba"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "magma_monsters:magma_monsters:0.5.3@jar",
           "name": "MagmaMonsters",
           "type": "ForgeMod",
           "artifact": {
-            "size": 174601,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/MagmaMonsters-0.6.2.jar",
-            "MD5": "7f5926fad3244bb05bcb22eb3a8d85f9"
+            "size": 171748,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/MagmaMonsters-0.5.3.jar",
+            "MD5": "6619dac33d7dd35385b8eab536856a8d"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "de.melanx:morevanillaarmor:1.18.2-3.1.2@jar",
+          "id": "com.mrcrayfish.morefurniture:morecfm:1.3.1@jar",
+          "name": "MrCrayfish's More Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6132491,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/morecfm-1.3.1-1.16.3.jar",
+            "MD5": "63dad3f9781dd8cdc7f0a3e104a09cf6"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "de.melanx:morevanillaarmor:1.16.2-1.2@jar",
           "name": "MoreVanillaArmor",
           "type": "ForgeMod",
           "artifact": {
-            "size": 228239,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/MoreVanillaArmor-1.18.2-3.1.2.jar",
-            "MD5": "cd0955727f9a17ea2ec630ee22c6f475"
+            "size": 183766,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/morevanillaarmor-1.16.2-1.2.jar",
+            "MD5": "3199aac3a141b66bd74d03360a1ec756"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "de.melanx:morevanillalib:1.18.2-3.1.1@jar",
+          "id": "de.melanx:morevanillalib:1.4.1@jar",
           "name": "MoreVanillaLib",
           "type": "ForgeMod",
           "artifact": {
-            "size": 126200,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/MoreVanillaLib-1.18.2-3.1.1.jar",
-            "MD5": "c8b40eb64925e2469938bd874fd73a73"
+            "size": 105524,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/morevanillalib-1.16.4-1.4.1.jar",
+            "MD5": "cd6a5ae08ec018af252b6662911550e5"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "de.melanx:morevanillatools:1.18.2-4.1.1@jar",
+          "id": "de.melanx:morevanillatools:2.2.0@jar",
           "name": "MoreVanillaTools",
           "type": "ForgeMod",
           "artifact": {
-            "size": 156757,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/MoreVanillaTools-1.18.2-4.1.1.jar",
-            "MD5": "f747a311fed89fe00adcad17bdf0c397"
+            "size": 176896,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/morevanillatools-1.16.4-2.2.0.jar",
+            "MD5": "d9aa89c8228edd51195f35156ad05a64"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "vazkii.neat:neat:1.8-30@jar",
+          "id": "generated.forgemod:mythic:mounts-1.16.5-5.0@jar",
+          "name": "Mythic",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2932174,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/mythic-mounts-1.16.5-5.0.jar",
+            "MD5": "e99aec4d6b44a14499cbcc215a0af6a3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "vazkii.neat:neat:1.7-27@jar",
           "name": "Neat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 21161,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/Neat+1.8-30.jar",
-            "MD5": "1b46ae1a5ea85e0ab8bee48ec786a770"
+            "size": 21664,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/Neat+1.7-27.jar",
+            "MD5": "f42a01e1a0baa1292f58a889b33cc473"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "generated.forgemod:paradise:lost-1.6.8+1.18.2@jar",
-          "name": "Paradise",
+          "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
+          "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
-            "size": 43952789,
-            "url": "https://mediafilez.forgecdn.net/files/3726/50/paradise-lost-1.6.8%2B1.18.2.jar",
-            "MD5": "4a67b7cb49fa640aeb845eb455c7423a"
+            "size": 6046996,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
+            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "vazkii.patchouli:patchouli:1.18.2-71.1@jar",
+          "id": "vazkii.patchouli.common.base:patchouli:1.16.4-53.2@jar",
           "name": "Patchouli",
           "type": "ForgeMod",
           "artifact": {
-            "size": 631415,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/Patchouli-1.18.2-71.1.jar",
-            "MD5": "c16562c0c0095bc538c682517edc8b9c"
+            "size": 593114,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/Patchouli-1.16.4-53.2.jar",
+            "MD5": "8bc012f54bb0df32e53d4c92398e2524"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "shadows.placebo:placebo:6.6.7@jar",
+          "id": "shadows.placebo:placebo:4.6.1@jar",
           "name": "Placebo",
           "type": "ForgeMod",
           "artifact": {
-            "size": 224281,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/Placebo-1.18.2-6.6.7.jar",
-            "MD5": "1b527f8b032cb04dcb5ae8152a1ef460"
+            "size": 145933,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/Placebo-1.16.5-4.6.1.jar",
+            "MD5": "ebf00ea62791def51c779ac0c3e7974c"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "vazkii.quark.base:quark:3.2-358@jar",
+          "id": "vazkii.quark.base:quark:r2.4-322@jar",
           "name": "Quark",
           "type": "ForgeMod",
           "artifact": {
-            "size": 13743162,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/Quark-3.2-358.jar",
-            "MD5": "ce00897b54456cc8847db82c9305f7a0"
+            "size": 8796901,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/Quark-r2.4-322.jar",
+            "MD5": "1144d99278adcedb6bfac69842fbdf48"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "net.geforcemods:securitycraft:1.9.6.1@jar",
-          "name": "SecurityCraft",
+          "id": "mod.alexndr:simpleores:1.16.5-2.4.7.2@jar",
+          "name": "Simple Ores",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3584722,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/SecurityCraft+v1.9.6.1.jar",
-            "MD5": "2052856520faba2c6c990e08454d0735"
+            "size": 321866,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/SimpleOres2-1.16.5-2.4.7.2.jar",
+            "MD5": "38afac5045fb4b8f731231cf0ca9e807"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "com.jaquadro.minecraft:storagedrawers:10.2.1@jar",
+          "id": "boss_tools_giselle_addon:boss_tools_giselle_addon:1.16@jar",
+          "name": "Space-BossTools: Giselle Addon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 619202,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/Space-BossTools_Giselle_Addon-1.16.5-1.16.jar",
+            "MD5": "1b1a419a6f28d6c150bf7ec3053f3dd6"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.mrscauthd:boss_tools:5.5e@jar",
+          "name": "Space-BossTools",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2733316,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/Space-BossTools-1.16.5-5.5e.jar",
+            "MD5": "79b8abbe55a0ec09b3f98c72f10176e0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.jaquadro.minecraft:storagedrawers:8.3.0@jar",
           "name": "Storage Drawers",
           "type": "ForgeMod",
           "artifact": {
-            "size": 578059,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/StorageDrawers-1.18.2-10.2.1.jar",
-            "MD5": "dbca0eeb2e7ed37cb585b6def632be4d"
+            "size": 500792,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/StorageDrawers-1.16.3-8.3.0.jar",
+            "MD5": "500b9ace20b546f458a8d769438145d6"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "terrablender.core:terrablender:1.2.0.126@jar",
-          "name": "TerraBlender",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 96811,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/TerraBlender-forge-1.18.2-1.2.0.126.jar",
-            "MD5": "8bb74f84db692a34652d0d8bd2e3749f"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.blay09.mods:trashslot:11.0.3@jar",
+          "id": "net.blay09.mods:trashslot:12.2.1@jar",
           "name": "TrashSlot",
           "type": "ForgeMod",
           "artifact": {
-            "size": 113271,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/trashslot-forge-1.18.2-11.0.3.jar",
-            "MD5": "e1e560b8553df0c9eeb61515800bb5b7"
+            "size": 61032,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/TrashSlot_1.16.3-12.2.1.jar",
+            "MD5": "6379a23830acc94efa27eb5470e1bf22"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "twilightforest:twilightforest:4.1.1494@jar",
+          "id": "twilightforest:twilightforest:1.16.5-4.0.870-universal@jar",
           "name": "The Twilight Forest",
           "type": "ForgeMod",
           "artifact": {
-            "size": 32922068,
-            "url": "https://mediafilez.forgecdn.net/files/4337/390/twilightforest-1.18.2-4.1.1494-universal.jar",
-            "MD5": "8626ba7afd76dcb72f8d569894d44288"
+            "size": 31748538,
+            "url": "https://mediafilez.forgecdn.net/files/3575/220/twilightforest-1.16.5-4.0.870-universal.jar",
+            "MD5": "bc9f7d1c53369268094e970edd26a43c"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "info.u_team.u_team_core:uteamcore:4.0.1.230@jar",
+          "id": "info.u_team.u_team_core:uteamcore:3.2.1.196@jar",
           "name": "U Team Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 400071,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/u_team_core-1.18.2-4.0.1.230.jar",
-            "MD5": "02a41f91afe5748040af6f72fa13cd14"
+            "size": 397203,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/u_team_core-1.16.5-3.2.1.196.jar",
+            "MD5": "d2c4f26d5172cb698120e361334f56eb"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "info.u_team.useful_backpacks:usefulbackpacks:1.12.2.94@jar",
+          "id": "info.u_team.useful_backpacks:usefulbackpacks:1.12.0.88@jar",
           "name": "Useful Backpacks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 173007,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/useful_backpacks-1.18.2-1.12.2.94.jar",
-            "MD5": "d003bd9642fbdaff2615f438bb276d01"
+            "size": 171972,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/useful_backpacks-1.16.5-1.12.0.88.jar",
+            "MD5": "6111472d63c0b48c0bc785ba64f7c1c4"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "mods.waterstrainer:waterstrainer:1.18.2-13.0.0@jar",
+          "id": "com.mrcrayfish:vehicle:0.45.2@jar",
+          "name": "MrCrayfish's Vehicle Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3397300,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/vehicle-mod-0.45.2-1.16.3.jar",
+            "MD5": "c2ef69e5bfe25bb9deb11a9b38297fdb"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "mods.waterstrainer:waterstrainer:1.16.3-10.0.0@jar",
           "name": "Water Strainer",
           "type": "ForgeMod",
           "artifact": {
-            "size": 237935,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/WaterStrainer-1.18.2-13.0.0.jar",
-            "MD5": "0cf130beb38f6ebd411006bb919b6e63"
+            "size": 232388,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/WaterStrainer-1.16.3-10.0.0.jar",
+            "MD5": "9424f984e06f9dddbe2535c0fb9bd37d"
           },
           "required": {
             "value": false
@@ -996,7 +999,7 @@
           "type": "File",
           "artifact": {
             "size": 2306,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/files/config/twilightforest-client.toml",
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/files/config/twilightforest-client.toml",
             "MD5": "2abcaa441a69229a2b9e010cc633afdf",
             "path": "config/twilightforest-client.toml"
           }
@@ -1007,7 +1010,7 @@
           "type": "File",
           "artifact": {
             "size": 17215,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/files/miniature-shader-1.1.zip",
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/files/miniature-shader-1.1.zip",
             "MD5": "896491cdf10b745e98b894f38b8e8983",
             "path": "miniature-shader-1.1.zip"
           }
@@ -1018,7 +1021,7 @@
           "type": "File",
           "artifact": {
             "size": 964803,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/files/Solas+Shader+V1.0.zip",
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/files/Solas+Shader+V1.0.zip",
             "MD5": "55c81484076a9c35d2e1f27463eb6401",
             "path": "Solas+Shader+V1.0.zip"
           }
