@@ -812,19 +812,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6046996,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "vazkii.patchouli.common.base:patchouli:1.16.4-53.2@jar",
           "name": "Patchouli",
           "type": "ForgeMod",
