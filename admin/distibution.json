@@ -11,7 +11,7 @@
       "id": "Medevia_Alpha-1.16.5",
       "name": "Medevia Alpha",
       "description": "Alpha version of medevia",
-      "icon": "https://cdn.discordapp.com/attachments/977836321789866014/1102595989078032455/sdgv-removebg-preview_1.png",
+      "icon": null,
       "version": "1.0.0",
       "address": "185.41.152.56:55108",
       "minecraftVersion": "1.16.5",
@@ -474,6 +474,19 @@
           }
         },
         {
+          "id": "net.bdew.lib:bdlib:1.17.1.11@jar",
+          "name": "BdLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1153487,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/bdlib-1.17.1.11-mc1.16.5.jar",
+            "MD5": "c389b6a196bbfe2827f07b45a80965e8"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "its_meow.betteranimalsplus:betteranimalsplus:10.2.0@jar",
           "name": "Better Animals Plus",
           "type": "ForgeMod",
@@ -565,19 +578,6 @@
           }
         },
         {
-          "id": "team.creative:creativecore:2.3.0@jar",
-          "name": "CreativeCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 824660,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/CreativeCore_v2.3.0_mc1.17.1.jar",
-            "MD5": "d6936f32c02e6c2836aa6f1f5f6588d1"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "top.theillusivec4:curios:1.16.5-4.1.0.0@jar",
           "name": "Curios API",
           "type": "ForgeMod",
@@ -663,19 +663,6 @@
             "size": 258298,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/ironchest-1.16.5-11.2.21.jar",
             "MD5": "ad813ff46d3c9ba127e1033bfe957758"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "team.creative:itemphysic:1.6.0@jar",
-          "name": "ItemPhysic",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 47260,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/ItemPhysic_v1.4.18_mc1.16.5.jar",
-            "MD5": "537659a8c02fca60c79036d4c14dface"
           },
           "required": {
             "value": false
@@ -812,6 +799,19 @@
           }
         },
         {
+          "id": "com.mrcrayfish:obfuscate:0.6.3@jar",
+          "name": "Obfuscate",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 142536,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/obfuscate-0.6.3-1.16.5.jar",
+            "MD5": "514fe4c6c39bc1b7e474d813daab593e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
           "name": "OptiFine",
           "type": "ForgeMod",
@@ -858,6 +858,32 @@
             "size": 8796901,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/Quark-r2.4-322.jar",
             "MD5": "1144d99278adcedb6bfac69842fbdf48"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:scala-library-object:2.13.4-build-2@jar",
+          "name": "Scala Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16429062,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/ScalableCatsForce-2.13.4-build-2-with-library.jar",
+            "MD5": "5211f60def4dbb86f96d076879c1994c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "mod.alexndr:simplecorelib:1.16.5-2.0.8.22@jar",
+          "name": "SimpleCoreLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96151,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/SimpleCoreLib-1.16.5-2.0.8.22.jar",
+            "MD5": "291246b5705e301979b3e911d8ba1053"
           },
           "required": {
             "value": false
