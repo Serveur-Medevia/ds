@@ -11,7 +11,7 @@
       "id": "Medevia_Alpha-1.16.5",
       "name": "Medevia Alpha",
       "description": "Alpha version of medevia",
-      "icon": null,
+      "icon": "https://cdn.discordapp.com/attachments/977836321789866014/1102595989078032455/sdgv-removebg-preview_1.png",
       "version": "1.0.0",
       "address": "185.41.152.56:55108",
       "minecraftVersion": "1.16.5",
@@ -461,13 +461,13 @@
           }
         },
         {
-          "id": "generated.forgemod:basicendores:1.16.5-1.0.0-Fabric@jar",
-          "name": "BasicEndOres",
+          "id": "com.cscot.basicendores:beo:1.0.0@jar",
+          "name": "Basic End Ores",
           "type": "ForgeMod",
           "artifact": {
-            "size": 270520,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/BasicEndOres-1.16.5-1.0.0-Fabric.jar",
-            "MD5": "c840ebcbc33f6be149f61e7c00040be0"
+            "size": 276640,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/BasicEndOres-1.16.5-1.0.0.jar",
+            "MD5": "88726fed09117c2262741f2821237016"
           },
           "required": {
             "value": false
@@ -773,19 +773,6 @@
           }
         },
         {
-          "id": "generated.forgemod:mythic:mounts-1.16.5-5.0@jar",
-          "name": "Mythic",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2932174,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/mythic-mounts-1.16.5-5.0.jar",
-            "MD5": "e99aec4d6b44a14499cbcc215a0af6a3"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "vazkii.neat:neat:1.7-27@jar",
           "name": "Neat",
           "type": "ForgeMod",
@@ -851,13 +838,13 @@
           }
         },
         {
-          "id": "generated.forgemod:scala-library-object:2.13.4-build-2@jar",
+          "id": "generated.forgemod:scala-library-object:2.13.10-build-11@jar",
           "name": "Scala Lib",
           "type": "ForgeMod",
           "artifact": {
-            "size": 16429062,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/ScalableCatsForce-2.13.4-build-2-with-library.jar",
-            "MD5": "5211f60def4dbb86f96d076879c1994c"
+            "size": 17447191,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/ScalableCatsForce-2.13.10-build-11-with-library.jar",
+            "MD5": "4d3c6b9955bee3fc93d632f0a0448691"
           },
           "required": {
             "value": false
