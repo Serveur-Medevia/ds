@@ -888,7 +888,7 @@
           "required": {
             "value": false
           }
-        }
+        },
         {
           "id": "twilightforest-client.toml",
           "name": "twilightforest-client.toml",
