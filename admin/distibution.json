@@ -11,7 +11,7 @@
       "id": "Medevia_Alpha-1.16.5",
       "name": "Medevia Alpha",
       "description": "Alpha version of medevia",
-      "icon": null,
+      "icon": "https://cdn.discordapp.com/attachments/977836321789866014/1102595989078032455/sdgv-removebg-preview_1.png",
       "version": "1.0.0",
       "address": "185.41.152.56:55108",
       "minecraftVersion": "1.16.5",
@@ -442,6 +442,19 @@
             "size": 8356809,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/betteranimalsplus-1.16.5-10.2.0.jar",
             "MD5": "76be6215fd3ddd3fca3316718afa8962"
+          },
+          "required": {
+            "value": false
+          }
+        },       
+        {
+          "id": "team.chisel:ctm:MC1.16.1-1.1.2.6@jar",
+          "name": "ConnectedTexturesMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 186068,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/CTM-MC1.16.1-1.1.2.6.jar",
+            "MD5": "758f81bde7ee49b21b8ed2c0e1ef3567"
           },
           "required": {
             "value": false
