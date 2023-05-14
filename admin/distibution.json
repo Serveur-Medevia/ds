@@ -773,19 +773,6 @@
           }
         },
         {
-          "id": "net.mcreator.thegalaxistmod:the_galaxist_mod:1.0.0@jar",
-          "name": "The Galaxist Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7167551,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/TGM+0.5.10.jar",
-            "MD5": "bb646445d7e8a69a3773e93449e139df"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "net.blay09.mods:trashslot:12.2.1@jar",
           "name": "TrashSlot",
           "type": "ForgeMod",
