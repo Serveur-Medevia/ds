@@ -552,19 +552,6 @@
           }
         },
         {
-          "id": "generated.forgemod:hwyla:forge-1.10.11-B78_1.16.2-api@jar",
-          "name": "Hwyla",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 26278,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/Hwyla-forge-1.10.11-B78_1.16.2-api.jar",
-            "MD5": "30ac47fc630bddd8a171c363d2259722"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "mezz.jei:jei:7.7.1.152@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
@@ -1426,19 +1413,6 @@
             "size": 3559283,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/geckolib-forge-1.16.5-3.0.106.jar",
             "MD5": "6f4524eea52474c58280c2b0ac06e1e0"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:hwyla:forge-1.10.11-B78_1.16.2-api@jar",
-          "name": "Hwyla",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 26278,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/Hwyla-forge-1.10.11-B78_1.16.2-api.jar",
-            "MD5": "30ac47fc630bddd8a171c363d2259722"
           },
           "required": {
             "value": false
