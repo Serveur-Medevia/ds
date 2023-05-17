@@ -838,6 +838,19 @@
           }
         },
         {
+          "id": "futurepack:futurepack:31.3.7005@jar",
+          "name": "Futurepack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29120051,
+            "url": "https://mediafilez.forgecdn.net/files/3603/244/Futurepack-1.16.5-31.3.7005.jar",
+            "MD5": "e4f82b1267d831e2c469ba55af646ea1"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.sk89q:worldedit:7.2.5+57d5ac9@jar",
           "name": "WorldEdit",
           "type": "ForgeMod",
@@ -1348,6 +1361,19 @@
             "size": 2441584,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/SecurityCraft+v1.8.21.1.jar",
             "MD5": "dcc9cb141e9a8d15c03fb6d96393f4db"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "futurepack:futurepack:31.3.7005@jar",
+          "name": "Futurepack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29120051,
+            "url": "https://mediafilez.forgecdn.net/files/3603/244/Futurepack-1.16.5-31.3.7005.jar",
+            "MD5": "e4f82b1267d831e2c469ba55af646ea1"
           },
           "required": {
             "value": false
