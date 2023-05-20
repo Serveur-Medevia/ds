@@ -11,7 +11,7 @@
       "id": "Medevia_Alpha-1.16.5",
       "name": "Medevia Alpha",
       "description": "Alpha version of medevia",
-      "icon": "https://cdn.discordapp.com/attachments/977836321789866014/1102595989078032455/sdgv-removebg-preview_1.png",
+      "icon": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/logo-alpha.png",
       "version": "1.0.0",
       "address": "185.41.152.56:55108",
       "minecraftVersion": "1.16.5",
@@ -370,6 +370,19 @@
           }
         },
         {
+          "id": "com.builtbroken.ai.improvements:aiimprovements:0.3.0@jar",
+          "name": "AI-Improvements",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22152,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/AI-Improvements-1.16.2-0.3.0.jar",
+            "MD5": "2577d7c7f7d61d1ad2600e2eede81570"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.github.alexthe666:alexsmobs:1.12.1@jar",
           "name": "Alex's Mobs",
           "type": "ForgeMod",
@@ -487,6 +500,19 @@
           }
         },
         {
+          "id": "com.mrcrayfish:configured:1.5.3@jar",
+          "name": "Configured",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 131486,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/configured-1.5.3-1.16.5.jar",
+            "MD5": "589207a36d5bf2060df2425390b70245"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "team.chisel:ctm:MC1.16.1-1.1.2.6@jar",
           "name": "ConnectedTexturesMod",
           "type": "ForgeMod",
@@ -539,6 +565,71 @@
           }
         },
         {
+          "id": "me.lambdaurora.lambdynlights:dynamiclightsreforged:mc1.16.5_v1.0.1@jar",
+          "name": "Dynamic Lights Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 122118,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/dynamiclightsreforged-mc1.16.5_v1.0.1.jar",
+            "MD5": "1cda780a90261f66a3a3b5dce12b903c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "shadows.fastfurnace:fastfurnace:4.4.0@jar",
+          "name": "FastFurnace",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14614,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/FastFurnace-1.16.4-4.4.0.jar",
+            "MD5": "455de5fe1cbfdd860b576c9fe619a39a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "shadows.fastbench:fastbench:4.5.1@jar",
+          "name": "FastWorkbench",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33772,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/FastWorkbench-1.16.4-4.5.1.jar",
+            "MD5": "1e212d41ceb23cdf505f39372b746890"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:2.1.0@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 108520,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/ferritecore-2.1.0-forge.jar",
+            "MD5": "6b469b99aa6f89b6ebad7aefa3cb9843"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "futurepack:futurepack:31.3.7005@jar",
+          "name": "Futurepack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29120051,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/Futurepack-1.16.5-31.3.7005.jar",
+            "MD5": "e4f82b1267d831e2c469ba55af646ea1"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "software.bernie.example:geckolib3:3.0.106@jar",
           "name": "GeckoLib",
           "type": "ForgeMod",
@@ -546,6 +637,19 @@
             "size": 3559283,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/geckolib-forge-1.16.5-3.0.106.jar",
             "MD5": "6f4524eea52474c58280c2b0ac06e1e0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:hwyla:forge-1.10.11-B78_1.16.2-api@jar",
+          "name": "Hwyla",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26278,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/Hwyla-forge-1.10.11-B78_1.16.2-api.jar",
+            "MD5": "30ac47fc630bddd8a171c363d2259722"
           },
           "required": {
             "value": false
@@ -572,6 +676,32 @@
             "size": 171748,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/MagmaMonsters-0.5.3.jar",
             "MD5": "6619dac33d7dd35385b8eab536856a8d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "vice.magnesium_extras:magnesium_extras:mc1.16.5_v1.3.1@jar",
+          "name": "Magnesium Extras",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91607,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/magnesium_extras-mc1.16.5_v1.3.1.jar",
+            "MD5": "c9206cfabde8ac176c7865c63507a4e0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:magnesium:1.5@jar",
+          "name": "Magnesium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 541088,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/magnesium-1.5.jar",
+            "MD5": "e399ec4581df33a5cb7a0d6a0450a08b"
           },
           "required": {
             "value": false
@@ -669,6 +799,19 @@
           }
         },
         {
+          "id": "com.performant.coremod:performant:3.73m@jar",
+          "name": "Performant",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 235451,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/performant-1.16.2-5-4.0m.jar",
+            "MD5": "a2f76fe8faa44e630422781d80629f0d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "shadows.placebo:placebo:4.6.1@jar",
           "name": "Placebo",
           "type": "ForgeMod",
@@ -689,6 +832,19 @@
             "size": 8796901,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/Quark-r2.4-322.jar",
             "MD5": "1144d99278adcedb6bfac69842fbdf48"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.therandomlabs:randompatches:2.4.4-forge@jar",
+          "name": "RandomPatches",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 423940,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/randompatches-2.4.4-forge.jar",
+            "MD5": "46f910c39ee95a9dc1edf27dad5f1122"
           },
           "required": {
             "value": false
@@ -838,19 +994,6 @@
           }
         },
         {
-          "id": "futurepack:futurepack:31.3.7005@jar",
-          "name": "Futurepack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 29120051,
-            "url": "https://mediafilez.forgecdn.net/files/3603/244/Futurepack-1.16.5-31.3.7005.jar",
-            "MD5": "e4f82b1267d831e2c469ba55af646ea1"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "com.sk89q:worldedit:7.2.5+57d5ac9@jar",
           "name": "WorldEdit",
           "type": "ForgeMod",
@@ -891,7 +1034,7 @@
       "id": "Medevia_Build-1.16.5",
       "name": "Medevia Build",
       "description": "Build server of medevia",
-      "icon": "https://cdn.discordapp.com/attachments/977836321789866014/1107691157535871016/newlogo.png",
+      "icon": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/logo-builder.png",
       "version": "1.0.0",
       "address": "185.41.152.56:55106",
       "minecraftVersion": "1.16.5",
@@ -1237,6 +1380,19 @@
           ]
         },
         {
+          "id": "com.builtbroken.ai.improvements:aiimprovements:0.3.0@jar",
+          "name": "AI-Improvements",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22152,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/AI-Improvements-1.16.2-0.3.0.jar",
+            "MD5": "2577d7c7f7d61d1ad2600e2eede81570"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "appeng.core:appliedenergistics2:8.4.7@jar",
           "name": "Applied Energistics 2",
           "type": "ForgeMod",
@@ -1276,6 +1432,32 @@
           }
         },
         {
+          "id": "com.mrcrayfish:configured:1.5.3@jar",
+          "name": "Configured",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 131486,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/configured-1.5.3-1.16.5.jar",
+            "MD5": "589207a36d5bf2060df2425390b70245"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.lambdaurora.lambdynlights:dynamiclightsreforged:mc1.16.5_v1.0.1@jar",
+          "name": "Dynamic Lights Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 122118,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/dynamiclightsreforged-mc1.16.5_v1.0.1.jar",
+            "MD5": "1cda780a90261f66a3a3b5dce12b903c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "nl.requios:effortlessbuilding:1.16.3-2.29@jar",
           "name": "Effortless Building",
           "type": "ForgeMod",
@@ -1289,6 +1471,58 @@
           }
         },
         {
+          "id": "shadows.fastfurnace:fastfurnace:4.4.0@jar",
+          "name": "FastFurnace",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14614,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/FastFurnace-1.16.4-4.4.0.jar",
+            "MD5": "455de5fe1cbfdd860b576c9fe619a39a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "shadows.fastbench:fastbench:4.5.1@jar",
+          "name": "FastWorkbench",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33772,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/FastWorkbench-1.16.4-4.5.1.jar",
+            "MD5": "1e212d41ceb23cdf505f39372b746890"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:2.1.0@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 108520,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/ferritecore-2.1.0-forge.jar",
+            "MD5": "6b469b99aa6f89b6ebad7aefa3cb9843"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "futurepack:futurepack:31.3.7005@jar",
+          "name": "Futurepack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29120051,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/Futurepack-1.16.5-31.3.7005.jar",
+            "MD5": "e4f82b1267d831e2c469ba55af646ea1"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "mezz.jei:jei:7.7.1.152@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
@@ -1296,6 +1530,32 @@
             "size": 828677,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/jei-1.16.5-7.7.1.152.jar",
             "MD5": "fb5fe43b43be01abc6c24eff29791b52"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "vice.magnesium_extras:magnesium_extras:mc1.16.5_v1.3.1@jar",
+          "name": "Magnesium Extras",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91607,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/magnesium_extras-mc1.16.5_v1.3.1.jar",
+            "MD5": "c9206cfabde8ac176c7865c63507a4e0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:magnesium:1.5@jar",
+          "name": "Magnesium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 541088,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/magnesium-1.5.jar",
+            "MD5": "e399ec4581df33a5cb7a0d6a0450a08b"
           },
           "required": {
             "value": false
@@ -1328,6 +1588,19 @@
           }
         },
         {
+          "id": "com.performant.coremod:performant:3.73m@jar",
+          "name": "Performant",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 235451,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/performant-1.16.2-5-4.0m.jar",
+            "MD5": "a2f76fe8faa44e630422781d80629f0d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "vazkii.quark.base:quark:r2.4-322@jar",
           "name": "Quark",
           "type": "ForgeMod",
@@ -1335,6 +1608,19 @@
             "size": 8796901,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/Quark-r2.4-322.jar",
             "MD5": "1144d99278adcedb6bfac69842fbdf48"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.therandomlabs:randompatches:2.4.4-forge@jar",
+          "name": "RandomPatches",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 423940,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/randompatches-2.4.4-forge.jar",
+            "MD5": "46f910c39ee95a9dc1edf27dad5f1122"
           },
           "required": {
             "value": false
@@ -1361,19 +1647,6 @@
             "size": 2441584,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/SecurityCraft+v1.8.21.1.jar",
             "MD5": "dcc9cb141e9a8d15c03fb6d96393f4db"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "futurepack:futurepack:31.3.7005@jar",
-          "name": "Futurepack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 29120051,
-            "url": "https://mediafilez.forgecdn.net/files/3603/244/Futurepack-1.16.5-31.3.7005.jar",
-            "MD5": "e4f82b1267d831e2c469ba55af646ea1"
           },
           "required": {
             "value": false
