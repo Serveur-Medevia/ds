@@ -1549,19 +1549,6 @@
           }
         },
         {
-          "id": "me.jellysquid.mods.sodium.client:magnesium:1.5@jar",
-          "name": "Magnesium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 541088,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/magnesium-1.5.jar",
-            "MD5": "e399ec4581df33a5cb7a0d6a0450a08b"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "com.mrcrayfish.morefurniture:morecfm:1.3.1@jar",
           "name": "MrCrayfish's More Furniture Mod",
           "type": "ForgeMod",
