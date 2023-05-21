@@ -1601,6 +1601,19 @@
           }
         },
         {
+          "id": "shadows.placebo:placebo:4.6.1@jar",
+          "name": "Placebo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 145933,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/Placebo-1.16.5-4.6.1.jar",
+            "MD5": "ebf00ea62791def51c779ac0c3e7974c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "vazkii.quark.base:quark:r2.4-322@jar",
           "name": "Quark",
           "type": "ForgeMod",
