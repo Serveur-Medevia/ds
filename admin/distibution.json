@@ -1007,25 +1007,25 @@
           }
         },
         {
-          "id": "miniature-shader-1.1.zip",
-          "name": "miniature-shader-1.1.zip",
+          "id": "ComplementaryReimagined_r2.1.zip",
+          "name": "ComplementaryReimagined_r2.1.zip",
           "type": "File",
           "artifact": {
-            "size": 17215,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/files/miniature-shader-1.1.zip",
-            "MD5": "896491cdf10b745e98b894f38b8e8983",
-            "path": "miniature-shader-1.1.zip"
+            "size": 266616,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/files/ComplementaryReimagined_r2.1.zip",
+            "MD5": "c156d1da485abff8d7f27b0b99181985",
+            "path": "ComplementaryReimagined_r2.1.zip"
           }
         },
         {
-          "id": "Solas+Shader+V1.0.zip",
-          "name": "Solas+Shader+V1.0.zip",
+          "id": "Ymir_beta2.0.zip",
+          "name": "Ymir_beta2.0.zip",
           "type": "File",
           "artifact": {
-            "size": 964803,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/files/Solas+Shader+V1.0.zip",
-            "MD5": "55c81484076a9c35d2e1f27463eb6401",
-            "path": "Solas+Shader+V1.0.zip"
+            "size": 5861571,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/files/Ymir_beta2.0.zip",
+            "MD5": "6c605a84cda61db9d8f7df18fdd0739c",
+            "path": "Ymir_beta2.0.zip"
           }
         }
       ]
@@ -1728,6 +1728,28 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r2.1.zip",
+          "name": "ComplementaryReimagined_r2.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 266616,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/files/ComplementaryReimagined_r2.1.zip",
+            "MD5": "c156d1da485abff8d7f27b0b99181985",
+            "path": "ComplementaryReimagined_r2.1.zip"
+          }
+        },
+        {
+          "id": "Ymir_beta2.0.zip",
+          "name": "Ymir_beta2.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 5861571,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/files/Ymir_beta2.0.zip",
+            "MD5": "6c605a84cda61db9d8f7df18fdd0739c",
+            "path": "Ymir_beta2.0.zip"
           }
         }
       ]
