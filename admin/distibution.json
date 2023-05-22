@@ -1458,6 +1458,45 @@
           }
         },
         {
+          "id": "shadows.fastfurnace:fastfurnace:4.4.0@jar",
+          "name": "FastFurnace",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14614,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/FastFurnace-1.16.4-4.4.0.jar",
+            "MD5": "455de5fe1cbfdd860b576c9fe619a39a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "shadows.fastbench:fastbench:4.5.1@jar",
+          "name": "FastWorkbench",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33772,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/FastWorkbench-1.16.4-4.5.1.jar",
+            "MD5": "1e212d41ceb23cdf505f39372b746890"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:2.1.0@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 108520,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/ferritecore-2.1.0-forge.jar",
+            "MD5": "6b469b99aa6f89b6ebad7aefa3cb9843"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "futurepack:futurepack:31.3.7005@jar",
           "name": "Futurepack",
           "type": "ForgeMod",
@@ -1497,6 +1536,32 @@
           }
         },
         {
+          "id": "net.coderbot.iris:oculus:1.2.6@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1801950,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/oculus-1.2.6.jar",
+            "MD5": "080b94f0ef63770e75b8bf9f6efa73cd"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.performant.coremod:performant:3.73m@jar",
+          "name": "Performant",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 235451,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/performant-1.16.2-5-4.0m.jar",
+            "MD5": "a2f76fe8faa44e630422781d80629f0d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "shadows.placebo:placebo:4.6.1@jar",
           "name": "Placebo",
           "type": "ForgeMod",
@@ -1517,6 +1582,32 @@
             "size": 8796901,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/Quark-r2.4-322.jar",
             "MD5": "1144d99278adcedb6bfac69842fbdf48"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.therandomlabs:randompatches:2.4.4-forge@jar",
+          "name": "RandomPatches",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 423940,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/randompatches-2.4.4-forge.jar",
+            "MD5": "46f910c39ee95a9dc1edf27dad5f1122"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:rubidium:0.2.10@jar",
+          "name": "Rubidium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 597692,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/rubidium-0.2.10.jar",
+            "MD5": "d2c79305904084bd028bb37c169467d1"
           },
           "required": {
             "value": false
