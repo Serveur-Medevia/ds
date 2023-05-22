@@ -1445,6 +1445,19 @@
           }
         },
         {
+          "id": "me.lambdaurora.lambdynlights:dynamiclightsreforged:mc1.16.5_v1.0.1@jar",
+          "name": "Dynamic Lights Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 122118,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/dynamiclightsreforged-mc1.16.5_v1.0.1.jar",
+            "MD5": "1cda780a90261f66a3a3b5dce12b903c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "nl.requios:effortlessbuilding:1.16.3-2.29@jar",
           "name": "Effortless Building",
           "type": "ForgeMod",
@@ -1517,19 +1530,6 @@
             "size": 828677,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/jei-1.16.5-7.7.1.152.jar",
             "MD5": "fb5fe43b43be01abc6c24eff29791b52"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "vice.magnesium_extras:magnesium_extras:mc1.16.5_v1.3.1@jar",
-          "name": "Magnesium Extras",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 91607,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/magnesium_extras-mc1.16.5_v1.3.1.jar",
-            "MD5": "c9206cfabde8ac176c7865c63507a4e0"
           },
           "required": {
             "value": false
@@ -1621,6 +1621,19 @@
             "size": 597692,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/rubidium-0.2.10.jar",
             "MD5": "d2c79305904084bd028bb37c169467d1"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.flashyreese.mods.sodiumextra.client:sodiumextra:1.16.5-0.4.10.37@jar",
+          "name": "Rubidium Extra",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 194405,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/RubidiumExtra-1.16.5-0.4.10.37.jar",
+            "MD5": "216035d9509ef29a8b68b1a363e195f5"
           },
           "required": {
             "value": false
