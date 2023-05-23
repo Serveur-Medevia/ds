@@ -1549,6 +1549,19 @@
           }
         },
         {
+          "id": "com.swdteam.panorama.main:panorama:1.2.0@jar",
+          "name": "Panorama",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 32535,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/panorama-1.3.0.jar",
+            "MD5": "09d675a9b45c878f366a2d3d5b1e1f5e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.performant.coremod:performant:3.73m@jar",
           "name": "Performant",
           "type": "ForgeMod",
