@@ -725,9 +725,9 @@
           "name": "Immersive Portals",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5081785,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/immersive-portals-0.16-mc1.16.5-forge.jar",
-            "MD5": "41aca9e969b7fc29418d6c3edaf49203"
+            "size": 5081679,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/immersive-portals-0.17-mc1.16.5-forge.jar",
+            "MD5": "e273131bf53f5d71095396a9ebd662a6"
           },
           "required": {
             "value": false
@@ -1332,7 +1332,7 @@
           "artifact": {
             "size": 202,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/files/packmenu/resources/assets/packmenu/buttons/seconnecter.json",
-            "MD5": "77223e03daff8a151a9d0af963894e25",
+            "MD5": "c2a996db4a708a4783263f1d5fb3d136",
             "path": "packmenu/resources/assets/packmenu/buttons/seconnecter.json"
           }
         },
@@ -2078,9 +2078,9 @@
           "name": "Immersive Portals",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5081785,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/immersive-portals-0.16-mc1.16.5-forge.jar",
-            "MD5": "41aca9e969b7fc29418d6c3edaf49203"
+            "size": 5081679,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/immersive-portals-0.17-mc1.16.5-forge.jar",
+            "MD5": "e273131bf53f5d71095396a9ebd662a6"
           },
           "required": {
             "value": false
@@ -2133,19 +2133,6 @@
             "size": 540313,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/PackMenu-1.16.5-2.5.0.jar",
             "MD5": "a84f2bc222d795e9350d55140e24886f"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.swdteam.panorama.main:panorama:1.2.0@jar",
-          "name": "Panorama",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 32535,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/panorama-1.3.0.jar",
-            "MD5": "09d675a9b45c878f366a2d3d5b1e1f5e"
           },
           "required": {
             "value": false
