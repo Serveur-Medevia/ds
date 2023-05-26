@@ -474,13 +474,13 @@
           }
         },
         {
-          "id": "org.jwaresoftware.mcmods.lib:carrots:3.0.2@jar",
+          "id": "org.jwaresoftware.mcmods.lib:carrots:3.0b5@jar",
           "name": "Carrots Lib",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1307599,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/carrotslib-mc1.16.5-3.0.2.jar",
-            "MD5": "28ab7a6c5cb9cea37aa1b538fd183202"
+            "size": 1299416,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/carrotslib-mc1.16.5-3.0b5.jar",
+            "MD5": "f86c8ae3b493ab41ef1d7b25082f3863"
           },
           "required": {
             "value": false
@@ -1905,13 +1905,13 @@
           }
         },
         {
-          "id": "org.jwaresoftware.mcmods.lib:carrots:3.0.2@jar",
+          "id": "org.jwaresoftware.mcmods.lib:carrots:3.0b5@jar",
           "name": "Carrots Lib",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1307599,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/carrotslib-mc1.16.5-3.0.2.jar",
-            "MD5": "28ab7a6c5cb9cea37aa1b538fd183202"
+            "size": 1299416,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/carrotslib-mc1.16.5-3.0b5.jar",
+            "MD5": "f86c8ae3b493ab41ef1d7b25082f3863"
           },
           "required": {
             "value": false
