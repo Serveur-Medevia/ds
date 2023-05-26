@@ -604,19 +604,6 @@
           }
         },
         {
-          "id": "com.seibel:lod:1.6.5a@jar",
-          "name": "Distant Horizons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2532216,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.16.5/forgemods/optionalon/DistantHorizons-1.6.5a-1.16.5.jar",
-            "MD5": "af7dda2aea3a1b1ed92c8b7c6e400ad1"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "com.infamous:dungeons_libraries:1.16.5-1.0.6@jar",
           "name": "Dungeons Libraries",
           "type": "ForgeMod",
@@ -1977,19 +1964,6 @@
             "size": 576443,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/decorative_blocks-1.16.4-1.7.2.jar",
             "MD5": "1b6222ecb3d24ef21b840ef0e5d98702"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.seibel:lod:1.6.5a@jar",
-          "name": "Distant Horizons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2532216,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/DistantHorizons-1.6.5a-1.16.5.jar",
-            "MD5": "af7dda2aea3a1b1ed92c8b7c6e400ad1"
           },
           "required": {
             "value": false
