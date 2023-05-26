@@ -1970,19 +1970,6 @@
           }
         },
         {
-          "id": "me.lambdaurora.lambdynlights:dynamiclightsreforged:mc1.16.5_v1.0.1@jar",
-          "name": "Dynamic Lights Reforged",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 122118,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/dynamiclightsreforged-mc1.16.5_v1.0.1.jar",
-            "MD5": "1cda780a90261f66a3a3b5dce12b903c"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "nl.requios:effortlessbuilding:1.16.3-2.29@jar",
           "name": "Effortless Building",
           "type": "ForgeMod",
