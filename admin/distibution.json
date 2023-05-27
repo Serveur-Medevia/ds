@@ -1983,19 +1983,6 @@
           }
         },
         {
-          "id": "nl.requios:effortlessbuilding:1.16.3-2.29@jar",
-          "name": "Effortless Building",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 534523,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Beta-1.16.5/forgemods/optionalon/effortlessbuilding-1.16.3-2.29.jar",
-            "MD5": "8ed5daa2ecaf930a6590d8fbbbe10b3a"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "shadows.fastfurnace:fastfurnace:4.4.0@jar",
           "name": "FastFurnace",
           "type": "ForgeMod",
