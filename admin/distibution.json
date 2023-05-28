@@ -2074,19 +2074,6 @@
           }
         },
         {
-          "id": "com.flanks255:simplylight:1.16.5-1.4.0-build.24@jar",
-          "name": "Simply Light",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 546032,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Beta-1.16.5/forgemods/optionalon/simplylight-1.16.5-1.4.0-build.24.jar",
-            "MD5": "507fed993ac5bbc0178a5d66e847c0f8"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "net.mehvahdjukaar:supplementaries:0.18.2@jar",
           "name": "Supplementaries",
           "type": "ForgeMod",
