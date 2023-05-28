@@ -1957,6 +1957,19 @@
           }
         },
         {
+          "id": "vazkii.neat:neat:1.7-27@jar",
+          "name": "Neat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21664,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Beta-1.16.5/forgemods/optionalon/Neat+1.7-27.jar",
+            "MD5": "f42a01e1a0baa1292f58a889b33cc473"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.coderbot.iris:oculus:1.2.6@jar",
           "name": "Oculus",
           "type": "ForgeMod",
