@@ -2946,19 +2946,6 @@
           }
         },
         {
-          "id": "noppes.npcs:customnpcs:1.16.5.20220515@jar",
-          "name": "Custom NPCs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 12457390,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/CustomNPCs-1.16.5.20220515.jar",
-            "MD5": "9d204b1c5dd8cdbe9737fbdc761f33d9"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "com.lilypuree:decorative_blocks:1.7.2@jar",
           "name": "Decorative Blocks",
           "type": "ForgeMod",
@@ -3031,19 +3018,6 @@
             "size": 108520,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/ferritecore-2.1.0-forge.jar",
             "MD5": "6b469b99aa6f89b6ebad7aefa3cb9843"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "futurepack:futurepack:31.3.7005@jar",
-          "name": "Futurepack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 29120051,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/Futurepack-1.16.5-31.3.7005.jar",
-            "MD5": "e4f82b1267d831e2c469ba55af646ea1"
           },
           "required": {
             "value": false
@@ -3239,45 +3213,6 @@
             "size": 546032,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/simplylight-1.16.5-1.4.0-build.24.jar",
             "MD5": "507fed993ac5bbc0178a5d66e847c0f8"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "boss_tools_giselle_addon:boss_tools_giselle_addon:1.16@jar",
-          "name": "Space-BossTools: Giselle Addon",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 619202,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/Space-BossTools_Giselle_Addon-1.16.5-1.16.jar",
-            "MD5": "1b1a419a6f28d6c150bf7ec3053f3dd6"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.mrscauthd:boss_tools:5.5e@jar",
-          "name": "Space-BossTools",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2733316,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/Space-BossTools-1.16.5-5.5e.jar",
-            "MD5": "79b8abbe55a0ec09b3f98c72f10176e0"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "eus.unaiortiz:spacestation:1.2.7@jar",
-          "name": "§9Space Station",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 607709,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Build-1.16.5/forgemods/optionalon/SpaceStation+1.2.7+[1.16.5].jar",
-            "MD5": "8425e0b1cfebc9cf0746ec0853e748c7"
           },
           "required": {
             "value": false
