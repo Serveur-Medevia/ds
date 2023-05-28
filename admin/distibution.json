@@ -1970,6 +1970,32 @@
           }
         },
         {
+          "id": "shadows.menu:packmenu:2.5.0@jar",
+          "name": "PackMenu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 540313,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Beta-1.16.5/forgemods/optionalon/PackMenu-1.16.5-2.5.0.jar",
+            "MD5": "a84f2bc222d795e9350d55140e24886f"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "shadows.placebo:placebo:4.6.1@jar",
+          "name": "Placebo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 145933,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Beta-1.16.5/forgemods/optionalon/Placebo-1.16.5-4.6.1.jar",
+            "MD5": "ebf00ea62791def51c779ac0c3e7974c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "vazkii.quark.base:quark:r2.4-322@jar",
           "name": "Quark",
           "type": "ForgeMod",
