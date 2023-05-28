@@ -1866,19 +1866,6 @@
           }
         },
         {
-          "id": "blocks_plus:blocksplus:1.2@jar",
-          "name": "Blocks +",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 216623,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Beta-1.16.5/forgemods/optionalon/Blocks+-1.16.5-1.2.jar",
-            "MD5": "f204dc2928e53e72edbbe02a48ada04f"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "org.jwaresoftware.mcmods.lib:carrots:3.0b5@jar",
           "name": "Carrots Lib",
           "type": "ForgeMod",
@@ -2094,19 +2081,6 @@
             "size": 546032,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Beta-1.16.5/forgemods/optionalon/simplylight-1.16.5-1.4.0-build.24.jar",
             "MD5": "507fed993ac5bbc0178a5d66e847c0f8"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "org.jwaresoftware.mcmods:styledblocks:6.0b5@jar",
-          "name": "Styled Blocks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7403450,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Beta-1.16.5/forgemods/optionalon/styledblocks-mc1.16.5-6.0b5.jar",
-            "MD5": "f14c237bfdaccfa9e835271245408a77"
           },
           "required": {
             "value": false
