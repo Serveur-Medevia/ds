@@ -417,6 +417,16 @@
           }
         },
         {
+          "id": "net.darkhax:bookshelf:10.4.33@jar",
+          "name": "Bookshelf",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 317032,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.16.5/forgemods/required/Bookshelf-Forge-1.16.5-10.4.33.jar",
+            "MD5": "9f5a57a605dafdd21e48b55fa0aa4fc4"
+          }
+        },
+        {
           "id": "org.jwaresoftware.mcmods.lib:carrots:3.0b5@jar",
           "name": "Carrots Lib",
           "type": "ForgeMod",
@@ -444,6 +454,26 @@
             "size": 1337675,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.16.5/forgemods/required/cloth-config-4.11.26-forge.jar",
             "MD5": "e25debeab3aed09b24c8c303822874f7"
+          }
+        },
+        {
+          "id": "me.shedaniel.clothconfig:cloth-config:4.16.91@jar",
+          "name": "Cloth Config v4 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1441438,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.16.5/forgemods/required/cloth-config-4.16.91-forge.jar",
+            "MD5": "3d099c99dfe94f89280815d302d1ea94"
+          }
+        },
+        {
+          "id": "com.natamus:collective:5.49@jar",
+          "name": "Collective",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 189273,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.16.5/forgemods/required/collective-1.16.5-5.49.jar",
+            "MD5": "1512ddca3d5526f195b43f2e6b0ba357"
           }
         },
         {
@@ -568,6 +598,16 @@
           }
         },
         {
+          "id": "com.anthonyhilyard:iceberg:1.0.45@jar",
+          "name": "Iceberg",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 61577,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.16.5/forgemods/required/Iceberg-1.16.5-1.0.45.jar",
+            "MD5": "ec502208377ca481a2e551b99e4cb050"
+          }
+        },
+        {
           "id": "com.anthonyhilyard:itemborders:1.1.6@jar",
           "name": "Item Borders",
           "type": "ForgeMod",
@@ -639,6 +679,16 @@
             "size": 145933,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.16.5/forgemods/required/Placebo-1.16.5-4.6.1.jar",
             "MD5": "ebf00ea62791def51c779ac0c3e7974c"
+          }
+        },
+        {
+          "id": "com.anthonyhilyard:prism:1.0.1@jar",
+          "name": "Prism",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 51909,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.16.5/forgemods/required/Prism-1.16.5-1.0.1.jar",
+            "MD5": "e05bc2b8aed2331717815029d1eb29c4"
           }
         },
         {
@@ -739,6 +789,16 @@
             "size": 13974605,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.16.5/forgemods/required/supplementaries-1.16.5-0.18.5.jar",
             "MD5": "4bfab5f117c788d70f40ef26247caa9f"
+          }
+        },
+        {
+          "id": "dev.tr7zw:transliterationlib:1.0.4@jar",
+          "name": "TRansliterationLib Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 922991,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.16.5/forgemods/required/TRansliterationLib-1.0.4.jar",
+            "MD5": "59f38e590dc30a6ec438d4ded004dd6d"
           }
         },
         {
