@@ -992,9 +992,9 @@
           "name": "seconnecter.json",
           "type": "File",
           "artifact": {
-            "size": 202,
+            "size": 199,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/files-saves/main/servers/Medevia-1.16.5/files/packmenu/resources/assets/packmenu/buttons/seconnecter.json",
-            "MD5": "ed859120ba1f175f45fa0197c8298292",
+            "MD5": "a326ff2d009f8ac5c4eeb793e191ea89",
             "path": "packmenu/resources/assets/packmenu/buttons/seconnecter.json"
           }
         },
