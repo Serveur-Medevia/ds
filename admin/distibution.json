@@ -406,6 +406,19 @@
           }
         },
         {
+          "id": "io.izzel.lightfall.client:lightfallclient:1.0.3+13@jar",
+          "name": "LightfallClient",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11597,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/lightfallclient-1.0.3.jar",
+            "MD5": "76361c82acb3566446a2545b9749edc2"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "packmenu.cfg",
           "name": "packmenu.cfg",
           "type": "File",
