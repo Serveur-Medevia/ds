@@ -523,16 +523,6 @@
           }
         },
         {
-          "id": "dev.lambdaurora.lambdynlights:dynamiclightsreforged:1.18.2_v1.3.3@jar",
-          "name": "Rubidium Dynamic Lights",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 90953,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/required/dynamiclightsreforged-1.18.2_v1.3.3.jar",
-            "MD5": "8edf5f13c07e3db59c42ec0b919faa28"
-          }
-        },
-        {
           "id": "com.matyrobbrt:eatinganimation:2.1.1@jar",
           "name": "Eating Animation",
           "type": "ForgeMod",
