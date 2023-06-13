@@ -523,6 +523,16 @@
           }
         },
         {
+          "id": "dev.lambdaurora.lambdynlights:dynamiclightsreforged:1.18.2_v1.3.3@jar",
+          "name": "Rubidium Dynamic Lights",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 90953,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/required/dynamiclightsreforged-1.18.2_v1.3.3.jar",
+            "MD5": "8edf5f13c07e3db59c42ec0b919faa28"
+          }
+        },
+        {
           "id": "com.matyrobbrt:eatinganimation:2.1.1@jar",
           "name": "Eating Animation",
           "type": "ForgeMod",
@@ -685,19 +695,6 @@
           }
         },
         {
-          "id": "top.leonx:irisflw:1.18.2-0.1.8-BETA@jar",
-          "name": "Oculus Flywheel Compat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 58909,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionalon/oculus-flywheel-compat-1.18.2-0.1.8-BETA.jar",
-            "MD5": "b485e1c825c733baac90757f47c76233"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "net.coderbot.iris:oculus:1.6.4@jar",
           "name": "Oculus",
           "type": "ForgeMod",
@@ -824,6 +821,16 @@
             "size": 13904989,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/required/supplementaries-1.18.2-1.5.18.jar",
             "MD5": "374ff11dc914e4ca9b514b75f18b3bc1"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods:reeses_sodium_options:1.0.5-mc1.18.2@jar",
+          "name": "TexTrue's Rubidium Options",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 193523,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/required/TextruesRubidiumOptions-1.0.5-mc1.18.2.jar",
+            "MD5": "a05193eca9628038b84aafc5785d7718"
           }
         },
         {
