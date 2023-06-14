@@ -546,20 +546,6 @@
           }
         },
         {
-          "id": "com.doctorfyro:elytraswapperforge:1.0.0@jar",
-          "name": "Elytra Swapper Forge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 28155,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/optionaloff/elytraswapperforge-1.18.2.jar",
-            "MD5": "33b1f2442886e6664d5695b97c2f4c9a"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "net.darkhax:enchdesc:10.0.12@jar",
           "name": "EnchantmentDescriptions",
           "type": "ForgeMod",
