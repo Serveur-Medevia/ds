@@ -644,16 +644,6 @@
           }
         },
         {
-          "id": "qouteall.imm_ptl.core.platform_specific:immersive_portals:1.4.12@jar",
-          "name": "Immersive Portals",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1568569,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/required/immersive-portals-1.4.12-mc1.18.2-forge.jar",
-            "MD5": "b67697d542d1720c9a7cf2b74b0e5ff8"
-          }
-        },
-        {
           "id": "com.anthonyhilyard:itemborders:1.1.5@jar",
           "name": "Item Borders",
           "type": "ForgeMod",
