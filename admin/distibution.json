@@ -644,6 +644,16 @@
           }
         },
         {
+          "id": "qouteall.q_misc_util:immersive_portals:1.4.17@jar",
+          "name": "Immersive Portals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1582055,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/required/immersive-portals-1.4.17-mc1.18.2-forge.jar",
+            "MD5": "f6c770186a7fbc9107cfc29e7ca9431c"
+          }
+        },
+        {
           "id": "com.anthonyhilyard:itemborders:1.1.5@jar",
           "name": "Item Borders",
           "type": "ForgeMod",
@@ -1044,9 +1054,9 @@
           "name": "seconnecter.json",
           "type": "File",
           "artifact": {
-            "size": 202,
+            "size": 199,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/files/packmenu/resources/assets/packmenu/buttons/seconnecter.json",
-            "MD5": "c2a996db4a708a4783263f1d5fb3d136",
+            "MD5": "a326ff2d009f8ac5c4eeb793e191ea89",
             "path": "packmenu/resources/assets/packmenu/buttons/seconnecter.json"
           }
         },
