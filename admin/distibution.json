@@ -393,13 +393,13 @@
           ]
         },
         {
-          "id": "net.geforcemods:securitycraft:1.9.6.1@jar",
+          "id": "net.geforcemods:securitycraft:1.9.3@jar",
           "name": "SecurityCraft",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3584722,
-            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/required/[1.18.2]+SecurityCraft+v1.9.6.1.jar",
-            "MD5": "2052856520faba2c6c990e08454d0735"
+            "size": 3117709,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/required/[1.18.2]+SecurityCraft+v1.9.3.jar",
+            "MD5": "59fcd2425d48d46e77e09781b287f0fb"
           }
         },
         {
@@ -644,6 +644,16 @@
           }
         },
         {
+          "id": "qouteall.q_misc_util:immersive_portals:1.4.17@jar",
+          "name": "Immersive Portals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1582055,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/required/immersive-portals-1.4.17-mc1.18.2-forge.jar",
+            "MD5": "f6c770186a7fbc9107cfc29e7ca9431c"
+          }
+        },
+        {
           "id": "com.anthonyhilyard:itemborders:1.1.5@jar",
           "name": "Item Borders",
           "type": "ForgeMod",
@@ -655,6 +665,16 @@
           "required": {
             "value": false,
             "def": false
+          }
+        },
+        {
+          "id": "mezz.jei:jei:9.7.1.255@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 993934,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/required/jei-1.18.2-9.7.1.255.jar",
+            "MD5": "866bc6f0b67cb38283764e4a34df765e"
           }
         },
         {
@@ -811,6 +831,16 @@
             "size": 473799,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/required/SimpleStorageNetwork-1.18.2-1.7.0.jar",
             "MD5": "f16b78c8709f48512227404b8d16ec1d"
+          }
+        },
+        {
+          "id": "com.flanks255:simplylight:1.18.2-1.4.5-build.43@jar",
+          "name": "Simply Light",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 549014,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Medevia_Alpha-1.18.2/forgemods/required/simplylight-1.18.2-1.4.5-build.43.jar",
+            "MD5": "c74f5774fc0a28016ffcf6dedf2f8d7a"
           }
         },
         {
