@@ -3704,6 +3704,16 @@
           }
         },
         {
+          "id": "dev.tr7zw.skinlayers:skinlayers3d:1.5.2@jar",
+          "name": "3dSkinLayers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 451464,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/3dskinlayers-forge-1.5.2-mc1.18.2.jar",
+            "MD5": "9e10695e761c172c0ab2b27afda28643"
+          }
+        },
+        {
           "id": "squeek.appleskin:appleskin:2.4.1+mc1.18.2@jar",
           "name": "AppleSkin",
           "type": "ForgeMod",
@@ -3727,6 +3737,16 @@
           }
         },
         {
+          "id": "dev.architectury:architectury:4.11.93@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 549226,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/architectury-4.11.93-forge.jar",
+            "MD5": "f3e897bea30252c717004e1a3439cf6b"
+          }
+        },
+        {
           "id": "vazkii.arl:autoreglib:1.7-53@jar",
           "name": "AutoRegLib",
           "type": "ForgeMod",
@@ -3734,6 +3754,16 @@
             "size": 42733,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/AutoRegLib-1.7-53.jar",
             "MD5": "b3fa32322a19c3d5f480efbff506dade"
+          }
+        },
+        {
+          "id": "iskallia.auxiliaryblocks:auxiliaryblocks:1.18.2-0.4.1@jar",
+          "name": "Auxiliary Blocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 872653,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/auxiliaryblocks-1.18.2-0.4.1.jar",
+            "MD5": "c919f33a541895fa2f0c92655314d1bb"
           }
         },
         {
@@ -3774,6 +3804,16 @@
           }
         },
         {
+          "id": "capsule:capsule:1.18.2-6.0.95@jar",
+          "name": "Capsule",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 356315,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/Capsule-1.18.2-6.0.95.jar",
+            "MD5": "9b6bb1265cd7e1346f8be79328741d27"
+          }
+        },
+        {
           "id": "org.jwaresoftware.mcmods.lib:carrots:4.0@jar",
           "name": "Carrots Lib",
           "type": "ForgeMod",
@@ -3794,6 +3834,16 @@
           }
         },
         {
+          "id": "earth.terrarium:chipped:2.0.1@jar",
+          "name": "Chipped",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19889353,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/chipped-forge-1.18.2-2.0.1.jar",
+            "MD5": "176507cc5fa758d976267a8b500c1909"
+          }
+        },
+        {
           "id": "me.shedaniel.clothconfig:cloth_config:6.4.90@jar",
           "name": "Cloth Config v4 API",
           "type": "ForgeMod",
@@ -3811,6 +3861,56 @@
             "size": 579018,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/collective-1.18.2-6.53.jar",
             "MD5": "731affba8ef41c9f66544c96bd61c8d9"
+          }
+        },
+        {
+          "id": "com.natamus:collective:6.59@jar",
+          "name": "Collective",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 579631,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/collective-1.18.2-6.59.jar",
+            "MD5": "c5861a4671bc03a9e0fc07bc9843d427"
+          }
+        },
+        {
+          "id": "com.blamejared:controlling:9.0+23@jar",
+          "name": "Controlling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 117162,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/Controlling-forge-1.18.2-9.0+23.jar",
+            "MD5": "09edb786875b2c6fc48261c435f42ef8"
+          }
+        },
+        {
+          "id": "com.epherical:croptopia:2.1.0@jar",
+          "name": "Croptopia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1862742,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/Croptopia-1.18.2-FORGE-2.1.0.jar",
+            "MD5": "2b663fa49cfbf79d19cbfa58fc1de46f"
+          }
+        },
+        {
+          "id": "team.chisel:ctm:1.18.2-1.1.5+5@jar",
+          "name": "ConnectedTexturesMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 192307,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/CTM-1.18.2-1.1.5+5.jar",
+            "MD5": "b6b1ee7e416ab150516a60cf14694e77"
+          }
+        },
+        {
+          "id": "dev.isxander:debugify:1.11.0@jar",
+          "name": "Debugify",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 320382,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/debugify-1.11.0-forge-1.18.2.jar",
+            "MD5": "5f3e9c2f0a7ce423e6f99ae8a6956019"
           }
         },
         {
@@ -3885,6 +3985,36 @@
           }
         },
         {
+          "id": "dev.ftb.mods:ftblibrary:1802.3.11-build.177@jar",
+          "name": "FTB Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 585874,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/ftb-library-forge-1802.3.11-build.177.jar",
+            "MD5": "36056368c47099e5278f1d9a3a9521b1"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbquests:1802.3.14-build.191@jar",
+          "name": "FTB Quests",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1086526,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/ftb-quests-forge-1802.3.14-build.191.jar",
+            "MD5": "0aa2d75a5c1353e12bc510b179c3ba06"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbteams:1802.2.11-build.107@jar",
+          "name": "FTB Teams",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 208342,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/ftb-teams-forge-1802.2.11-build.107.jar",
+            "MD5": "76d9f557ca35dc53a665213e49318d1b"
+          }
+        },
+        {
           "id": "futurepack:futurepack:033.0.7544@jar",
           "name": "Futurepack",
           "type": "ForgeMod",
@@ -3931,6 +4061,16 @@
           }
         },
         {
+          "id": "dev.latvian.mods:itemfilters:1802.2.8-build.50@jar",
+          "name": "Item Filters",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 115492,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/item-filters-forge-1802.2.8-build.50.jar",
+            "MD5": "456d7675fe074402c67be5ac0212b1b6"
+          }
+        },
+        {
           "id": "com.anthonyhilyard:itemborders:1.1.5@jar",
           "name": "Item Borders",
           "type": "ForgeMod",
@@ -3955,6 +4095,16 @@
           }
         },
         {
+          "id": "generated.forgemod:justenoughresources:1.18.2-0.14.1.171-javadoc@jar",
+          "name": "JustEnoughResources",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 579495,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/JustEnoughResources-1.18.2-0.14.1.171-javadoc.jar",
+            "MD5": "9f28972dfd094c70eb4a9820be46b71c"
+          }
+        },
+        {
           "id": "com.anthonyhilyard:legendarytooltips:1.3.1@jar",
           "name": "Legendary Tooltips",
           "type": "ForgeMod",
@@ -3975,6 +4125,76 @@
             "size": 11597,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/lightfallclient-1.0.3.jar",
             "MD5": "76361c82acb3566446a2545b9749edc2"
+          }
+        },
+        {
+          "id": "com.mcwdoors.kikoz:mcwdoors:1.0.9@jar",
+          "name": "Macaw's Doors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 942437,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/mcw-doors-1.0.9forge-mc1.18.2.jar",
+            "MD5": "2096c8201934d21e657443f81efb8f10"
+          }
+        },
+        {
+          "id": "com.mcwfences.kikoz:mcwfences:1.0.7@jar",
+          "name": "Macaw's Fences and Walls",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 317432,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/mcw-fences-1.0.7-mc1.18.2forge.jar",
+            "MD5": "88514dd9ee7083f40fde57848eca1db5"
+          }
+        },
+        {
+          "id": "com.mcwpaintings.kikoz:mcwpaintings:1.0.4@jar",
+          "name": "Macaw's Paintings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 59485,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/mcw-paintings-1.0.4-mc1.18.2.jar",
+            "MD5": "0cd2b1997bda5926d209769eb7261d01"
+          }
+        },
+        {
+          "id": "com.mcwpaths.kikoz:mcwpaths:1.0.3@jar",
+          "name": "Macaw's Paths and Pavings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 288606,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/mcw-paths-1.0.3forge-mc1.18.2.jar",
+            "MD5": "8a7cbdf3b4aeaa14db29ea1f0bb45fbb"
+          }
+        },
+        {
+          "id": "com.mcwtrpdoors.kikoz:mcwtrpdoors:1.1.0@jar",
+          "name": "Macaw's Trapdoors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 497242,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/mcw-trapdoors-1.1.0-mc1.18.2forge.jar",
+            "MD5": "3a9f532161ead9812c2ded38fe8722b1"
+          }
+        },
+        {
+          "id": "com.mcwwindows.kikoz:mcwwindows:2.1.1@jar",
+          "name": "Macaw's Windows",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 776948,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/mcw-windows-2.1.1-mc1.18.2forge.jar",
+            "MD5": "9a4ba0f382e0a63aad5f0a925bee8f39"
+          }
+        },
+        {
+          "id": "ca.fxco:memoryleakfix:1.0.0@jar",
+          "name": "Memory Leak Fix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 155597,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/memoryleakfix-forge-1.17+-1.0.0.jar",
+            "MD5": "ebca35f761de545a36629bb2fafc09c6"
           }
         },
         {
@@ -4111,6 +4331,26 @@
           }
         },
         {
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:1.18.2-3.18.52.846@jar",
+          "name": "Sophisticated Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 776898,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/sophisticatedbackpacks-1.18.2-3.18.52.846.jar",
+            "MD5": "837d6811c50d47094e168d38a2b4c8fb"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedcore:1.18.2-0.5.70.320@jar",
+          "name": "Sophisticated Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1003686,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/sophisticatedcore-1.18.2-0.5.70.320.jar",
+            "MD5": "5e6b9cdd68eaaa28de10ae9cd121d241"
+          }
+        },
+        {
           "id": "net.mehvahdjukaar:supplementaries:1.18.2-1.5.18@jar",
           "name": "Supplementaries",
           "type": "ForgeMod",
@@ -4131,6 +4371,26 @@
           }
         },
         {
+          "id": "com.corosus:timeout_fixes:1.18.1-1.0.0@jar",
+          "name": "Timeout Fixes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9492,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/timeout_fixes-1.18.1-1.0.0.jar",
+            "MD5": "0594e7de2ae1c0fb82bb350480b3ddde"
+          }
+        },
+        {
+          "id": "com.natamus:treeharvester:8.1@jar",
+          "name": "Tree Harvester",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 104569,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/treeharvester-1.18.2-8.1.jar",
+            "MD5": "bfb5a0bb65f78a45971fc076f86a64a3"
+          }
+        },
+        {
           "id": "com.sk89q:worldedit:7.2.10+1742f98@jar",
           "name": "WorldEdit",
           "type": "ForgeMod",
@@ -4138,6 +4398,26 @@
             "size": 5500682,
             "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/worldedit-mod-7.2.10.jar",
             "MD5": "862cec57e297ec8f97f74745c2e8b905"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.18.2-Forge-2.2.9@jar",
+          "name": "YUNG's API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 301487,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/YungsApi-1.18.2-Forge-2.2.9.jar",
+            "MD5": "ec58ada4e6951d88e0951d9238f4f0c6"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterfortresses:1.18.2-Forge-1.0.0@jar",
+          "name": "YUNG's Better Nether Fortresses",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 824584,
+            "url": "https://raw.githubusercontent.com/Serveur-Medevia/File-save-admin/main/servers/Proxy-1.18.2/forgemods/required/YungsBetterNetherFortresses-1.18.2-Forge-1.0.0.jar",
+            "MD5": "30c847f8f34366d66785498d2bbb8ee4"
           }
         }
       ]
